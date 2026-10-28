@@ -1,0 +1,227 @@
+{
+  "version": "0.8.2",
+  "fecha_revision": "2026-10-28",
+  "archivos_html_recibidos": 139,
+  "archivos_html_integridad_sha256": 139,
+  "votaciones_total": 2177,
+  "votaciones_cotejadas_html": 2134,
+  "votaciones_con_cotejo_previo_fuera_zip": 43,
+  "asociaciones_unicas_html": 2119,
+  "votaciones_multi_expediente": 15,
+  "asociaciones_unicas_previas": 43,
+  "relaciones_votacion_expediente": 2206,
+  "expedientes_distintos": 707,
+  "votaciones_sin_expediente": 0,
+  "candidatos_previos_cotejados": 2127,
+  "candidatos_previos_corregidos": 8,
+  "candidatos_previos_incompletos_por_voto_conjunto": 15,
+  "correcciones": [
+    {
+      "votacion_id": "s166-v010",
+      "anterior": "101/000004",
+      "correctos": [
+        "101/000002"
+      ],
+      "motivo": "El enlace al expediente figura en el mismo bloque HTML del voto, no se hereda de otra votacion"
+    },
+    {
+      "votacion_id": "s157-v001",
+      "anterior": "101/000004",
+      "correctos": [
+        "101/000002"
+      ],
+      "motivo": "El enlace al expediente figura en el mismo bloque HTML del voto, no se hereda de otra votacion"
+    },
+    {
+      "votacion_id": "s110-v001",
+      "anterior": "125/000022",
+      "correctos": [
+        "125/000004"
+      ],
+      "motivo": "El enlace al expediente figura en el mismo bloque HTML del voto, no se hereda de otra votacion"
+    },
+    {
+      "votacion_id": "s83-v001",
+      "anterior": "120/000018",
+      "correctos": [
+        "120/000003"
+      ],
+      "motivo": "El enlace al expediente figura en el mismo bloque HTML del voto, no se hereda de otra votacion"
+    },
+    {
+      "votacion_id": "s64-v001",
+      "anterior": "120/000031",
+      "correctos": [
+        "120/000001"
+      ],
+      "motivo": "El enlace al expediente figura en el mismo bloque HTML del voto, no se hereda de otra votacion"
+    },
+    {
+      "votacion_id": "s34-v001",
+      "anterior": "120/000026",
+      "correctos": [
+        "120/000004"
+      ],
+      "motivo": "El enlace al expediente figura en el mismo bloque HTML del voto, no se hereda de otra votacion"
+    },
+    {
+      "votacion_id": "s27-v001",
+      "anterior": "125/000021",
+      "correctos": [
+        "125/000003"
+      ],
+      "motivo": "El enlace al expediente figura en el mismo bloque HTML del voto, no se hereda de otra votacion"
+    },
+    {
+      "votacion_id": "s19-v001",
+      "anterior": "125/000017",
+      "correctos": [
+        "125/000002"
+      ],
+      "motivo": "El enlace al expediente figura en el mismo bloque HTML del voto, no se hereda de otra votacion"
+    }
+  ],
+  "votaciones_multi": [
+    {
+      "votacion_id": "s172-v016",
+      "fecha": "2026-04-15",
+      "expedientes": [
+        "110/000068",
+        "110/000069"
+      ]
+    },
+    {
+      "votacion_id": "s166-v009",
+      "fecha": "2026-03-18",
+      "expedientes": [
+        "110/000064",
+        "110/000066"
+      ]
+    },
+    {
+      "votacion_id": "s166-v007",
+      "fecha": "2026-03-18",
+      "expedientes": [
+        "110/000063",
+        "110/000065"
+      ]
+    },
+    {
+      "votacion_id": "s159-v024",
+      "fecha": "2026-02-12",
+      "expedientes": [
+        "152/000006",
+        "152/000007"
+      ]
+    },
+    {
+      "votacion_id": "s111-v012",
+      "fecha": "2025-05-14",
+      "expedientes": [
+        "110/000048",
+        "110/000049",
+        "110/000052"
+      ]
+    },
+    {
+      "votacion_id": "s111-v009",
+      "fecha": "2025-05-14",
+      "expedientes": [
+        "110/000046",
+        "110/000047"
+      ]
+    },
+    {
+      "votacion_id": "s98-v019",
+      "fecha": "2025-03-13",
+      "expedientes": [
+        "110/000042",
+        "110/000043"
+      ]
+    },
+    {
+      "votacion_id": "s66-v016",
+      "fecha": "2024-10-10",
+      "expedientes": [
+        "110/000029",
+        "110/000034"
+      ]
+    },
+    {
+      "votacion_id": "s40-v056",
+      "fecha": "2024-05-23",
+      "expedientes": [
+        "110/000010",
+        "110/000011",
+        "110/000014",
+        "110/000015",
+        "110/000016",
+        "110/000020",
+        "110/000022",
+        "110/000023",
+        "110/000024",
+        "110/000025",
+        "110/000026",
+        "110/000027"
+      ]
+    },
+    {
+      "votacion_id": "s40-v055",
+      "fecha": "2024-05-23",
+      "expedientes": [
+        "110/000021",
+        "110/000028"
+      ]
+    },
+    {
+      "votacion_id": "s40-v052",
+      "fecha": "2024-05-23",
+      "expedientes": [
+        "110/000009",
+        "110/000017",
+        "110/000018",
+        "110/000019"
+      ]
+    },
+    {
+      "votacion_id": "s33-v013",
+      "fecha": "2024-03-21",
+      "expedientes": [
+        "110/000003",
+        "110/000005",
+        "110/000008"
+      ]
+    },
+    {
+      "votacion_id": "s33-v012",
+      "fecha": "2024-03-21",
+      "expedientes": [
+        "110/000006",
+        "110/000007"
+      ]
+    },
+    {
+      "votacion_id": "s13-v013",
+      "fecha": "2023-12-19",
+      "expedientes": [
+        "042/000002",
+        "042/000003"
+      ]
+    },
+    {
+      "votacion_id": "s9-v004",
+      "fecha": "2023-11-28",
+      "expedientes": [
+        "155/000001",
+        "155/000002"
+      ]
+    }
+  ],
+  "notas": [
+    "Los 2.134 registros cotejados se apoyan en HTML proporcionado por el usuario, cuyo manifiesto SHA-256 coincide con sus contenidos. No equivale a un cotejo en vivo del servidor.",
+    "Los otros 43 registros ya estaban documentalmente vinculados en la version 0.8.1; sus HTML no estaban en el ZIP recibido. Se mantiene esa procedencia separada.",
+    "La cobertura de expedientes es completa respecto al inventario de 2.177 votos de la web, NO respecto a todas las votaciones oficiales historicas ni a todas las comisiones.",
+    "Los recuentos nominales individuales aun contienen diferencias respecto a los agregados; la vinculacion de expedientes no resuelve ese problema.",
+    "La afiliacion historica de todos los partidos sigue pendiente."
+  ]
+}

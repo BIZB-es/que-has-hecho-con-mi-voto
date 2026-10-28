@@ -1,0 +1,56 @@
+name: Preparar actualización de votos para revisión
+on:
+  workflow_dispatch:
+    inputs:
+      url_votaciones:
+        description: URL HTTPS real del CSV completo de votaciones
+        required: true
+        type: string
+      url_grupos:
+        description: URL HTTPS real del CSV completo de grupos
+        required: true
+        type: string
+      url_diputados:
+        description: URL HTTPS real del CSV completo nominal
+        required: true
+        type: string
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Preparar una rama (nunca modificar main automáticamente)
+        run: git checkout -b "datos/actualizacion-${{ github.run_id }}"
+      - name: Descargar CSV y comprobar integridad
+        env:
+          URL_VOTACIONES: ${{ inputs.url_votaciones }}
+          URL_GRUPOS: ${{ inputs.url_grupos }}
+          URL_DIPUTADOS: ${{ inputs.url_diputados }}
+        run: |
+          python scripts/descargar_actualizacion_v06.py \
+            --url-votaciones "$URL_VOTACIONES" \
+            --url-grupos "$URL_GRUPOS" \
+            --url-diputados "$URL_DIPUTADOS"
+      - name: Verificar importación y registrar posibles diferencias
+        run: |
+          python scripts/verificar_importacion_v06.py
+          python scripts/verificar_v08.py
+      - name: Proponer actualización mediante PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name 'qhv-data-bot'
+          git config user.email 'qhv-data-bot@users.noreply.github.com'
+          git add assets/precarga_XV.js assets/nominal_catalog.js datos/historico datos/nominales datos/paquetes.json datos/auditoria_XV.json datos/estado_publicacion.json
+          if git diff --cached --quiet; then
+            echo 'No hay cambios'; exit 0
+          fi
+          git commit -m 'Propuesta de actualización de tablas XV'
+          git push -u origin HEAD
+          gh pr create --base main --title 'Revisar actualización de datos parlamentarios' --body 'No publicar sin comprobar las diferencias nominales, los llamamientos y la trazabilidad de las fuentes.'

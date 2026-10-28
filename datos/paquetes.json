@@ -1,0 +1,54 @@
+{
+  "version": "0.8.2",
+  "paquetes": [
+    {
+      "legislatura": "XV",
+      "anio": "2023",
+      "ruta": "datos/historico/XV-2023.json",
+      "desde": "2023-09-19",
+      "hasta": "2023-12-19",
+      "registros": 32,
+      "cobertura": "parcial",
+      "fuente": "Congreso Abierto, CSV descargados del catálogo",
+      "sha256": "382241ad5c78bfd14ccb806074e25cef356b9621cb01f3d8ad4d85a7bdef452a",
+      "ref_verificacion": ""
+    },
+    {
+      "legislatura": "XV",
+      "anio": "2024",
+      "ruta": "datos/historico/XV-2024.json",
+      "desde": "2024-01-10",
+      "hasta": "2024-12-19",
+      "registros": 862,
+      "cobertura": "parcial",
+      "fuente": "Congreso Abierto, CSV descargados del catálogo",
+      "sha256": "61021f36e106fda231c47f983695c4109bd6d0ec98882717fc6ca0dfb6a9d4b5",
+      "ref_verificacion": ""
+    },
+    {
+      "legislatura": "XV",
+      "anio": "2025",
+      "ruta": "datos/historico/XV-2025.json",
+      "desde": "2025-01-22",
+      "hasta": "2025-12-11",
+      "registros": 741,
+      "cobertura": "parcial",
+      "fuente": "Congreso Abierto, CSV descargados del catálogo",
+      "sha256": "31b8c3ace076230c353940af59220b89d3f42bf7e68d77f2aefb842a771472f1",
+      "ref_verificacion": ""
+    },
+    {
+      "legislatura": "XV",
+      "anio": "2026",
+      "ruta": "datos/historico/XV-2026.json",
+      "desde": "2026-01-27",
+      "hasta": "2026-10-02",
+      "registros": 542,
+      "cobertura": "parcial",
+      "fuente": "Congreso Abierto (CSV 2026 hasta 30/09) + 2 por llamamiento (Congreso/BOE)",
+      "sha256": "9bc91891432e3ce01c77a87d48af70a4e5bc0fc540f8b8d86368ee81aa77ee21",
+      "ref_verificacion": ""
+    }
+  ],
+  "nota": "2.175 votos del CSV nominal XV + dos votaciones por llamamiento documentadas del 02/10/2026, sin nominales."
+}

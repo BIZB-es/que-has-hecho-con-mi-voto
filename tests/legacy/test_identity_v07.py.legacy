@@ -1,0 +1,61 @@
+"""Pruebas del censo cruzado, fichas oficiales y cambios de grupo cotejados."""
+from pathlib import Path
+from playwright.sync_api import sync_playwright
+import re, json
+ROOT=Path(__file__).resolve().parent.parent
+with sync_playwright() as p:
+ browser=p.chromium.launch(headless=True,executable_path='/usr/bin/chromium',args=['--no-sandbox','--no-proxy-server','--allow-file-access-from-files'])
+ def make_page(doc,script_names,size):
+  page=browser.new_page(viewport={'width':size[0],'height':size[1]},device_scale_factor=1)
+  errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
+  page.route('https://qhv-local.invalid/**',lambda route: route.fulfill(body=(ROOT/route.request.url.split('qhv-local.invalid/',1)[-1]).read_bytes(),content_type='application/json') if (ROOT/route.request.url.split('qhv-local.invalid/',1)[-1]).is_file() else route.fulfill(status=404))
+  text=(ROOT/doc).read_text(encoding='utf-8')
+  text=re.sub(r'<script[^>]*src="[^"]+"[^>]*></script>','',text)
+  text=re.sub(r'<link[^>]*stylesheet[^>]*>','',text)
+  text=text.replace('<head>','<head><base href="https://qhv-local.invalid/">')
+  page.set_content(text,wait_until='domcontentloaded')
+  page.add_style_tag(path=str(ROOT/'assets/styles.css'))
+  for s in script_names:page.add_script_tag(path=str(ROOT/'assets'/s))
+  return page,errors
+ page,errors=make_page('index.html',['core.js','bootstrap.js','nominal_catalog.js','identidades_XV.js','precarga_XV.js','app.js'],(1360,950))
+ assert page.evaluate('QHV_TEST.getState().votes')==2175
+ assert page.evaluate("window.QHV_PRECARGA_XV.votaciones.find(x=>x.id==='s202-v020').expediente")== '042/000044'
+ assert page.evaluate("window.QHV_PRECARGA_XV.votaciones.find(x=>x.id==='s3-v001').url_votacion !== undefined")
+ page.evaluate("QHV_TEST.showVote('XV:s202-v020')")
+ assert 'Expediente' in page.locator('.exp-file').inner_text()
+ assert '042/000044' in page.locator('.exp-file').inner_text()
+ page.locator('#cargarDiputados').click()
+ page.wait_for_function('document.querySelector("#nominalList tbody tr")',timeout=18000)
+ page.locator('#nominalSearch').fill('Ione Belarra')
+ row=page.locator('#nominalList tbody tr').first
+ print('Late Belarra group and official form:',row.inner_text().replace('\n',' | '))
+ assert 'Mixto' in row.inner_text()
+ assert 'PODEMOS' in row.inner_text()
+ assert 'codParlamentario=262' in row.locator('a').get_attribute('href')
+ page.locator('#closeDialog').click()
+ page.evaluate("QHV_TEST.showVote('XV:s2-v001')")
+ page.locator('#cargarDiputados').click()
+ page.wait_for_function('document.querySelector("#nominalList tbody tr")',timeout=18000)
+ page.locator('#nominalSearch').fill('Ione Belarra')
+ row=page.locator('#nominalList tbody tr').first
+ print('Early Belarra group:',row.inner_text().replace('\n',' | '))
+ assert 'SUMAR' in row.inner_text() and 'El CSV indicaba: Mixto' in row.inner_text()
+ page.locator('#closeDialog').click()
+ page.screenshot(path=str(ROOT/'preview_v07_ficha.png'))
+ census,errors2=make_page('diputados.html',['identidades_XV.js','censo.js'],(1320,900))
+ assert census.evaluate('QHV_CENSO_TEST.getState().items')==412
+ assert census.evaluate('QHV_CENSO_TEST.getState().count')==412
+ census.locator('#censoQuery').fill('Néstor Rego')
+ assert census.evaluate('QHV_CENSO_TEST.getState().count')==1
+ assert 'BNG' in census.locator('#censoResults').inner_text()
+ census.locator('#censoQuery').fill('')
+ census.locator('#censoState').select_option('without')
+ assert census.evaluate('QHV_CENSO_TEST.getState().count')==62
+ census.locator('#censoState').select_option('all')
+ census.screenshot(path=str(ROOT/'preview_v07_censo.png'))
+ mobile,errors3=make_page('diputados.html',['identidades_XV.js','censo.js'],(390,844))
+ assert mobile.evaluate('QHV_CENSO_TEST.getState().count')==412
+ mobile.screenshot(path=str(ROOT/'preview_v07_censo_movil.png'))
+ assert not (errors or errors2 or errors3),(errors,errors2,errors3)
+ browser.close()
+print('OK v07: 412 censo, 350 codigo, perfiles, dos cambios de grupo, cuatro formaciones verificadas, expediente y movil')

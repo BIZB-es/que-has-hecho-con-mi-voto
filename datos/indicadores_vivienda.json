@@ -1,0 +1,146 @@
+{
+  "version": "0.4",
+  "ley": {
+    "id": "BOE-A-2023-12203",
+    "titulo": "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda",
+    "legislatura": "XIV",
+    "entrada_vigor": "2023-05-26",
+    "expediente": "121/000089",
+    "url_boe": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203",
+    "url_congreso": "https://www.congreso.es/es/proyectos-de-ley?_iniciativas_id=121%2F000089&_iniciativas_legislatura=XIV&_iniciativas_mode=mostrarDetalle&p_p_id=iniciativas&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal"
+  },
+  "indicadores": [
+    {
+      "id": "protegidas",
+      "nombre": "Viviendas protegidas con calificación definitiva",
+      "unidad": "viviendas",
+      "tipo": "resultado_observado",
+      "frecuencia": "anual",
+      "ambito": "España",
+      "serie": [
+        [
+          2018,
+          5191
+        ],
+        [
+          2019,
+          7248
+        ],
+        [
+          2020,
+          9973
+        ],
+        [
+          2021,
+          10637
+        ],
+        [
+          2022,
+          9610
+        ],
+        [
+          2023,
+          8847
+        ],
+        [
+          2024,
+          14371
+        ],
+        [
+          2025,
+          12858
+        ]
+      ],
+      "explicacion": "Una aproximación a la producción anual de vivienda protegida. Es un indicador relacionado con el objetivo de aumentar la oferta asequible, pero no identifica qué viviendas se construyeron como consecuencia de la Ley 12/2023.",
+      "advertencia": "Serie de calificaciones definitivas, no inventario de parque público, ni número de nuevos contratos de alquiler social. Los datos administrativos pueden revisarse; 2023 se muestra con el valor revisado publicado en 2026. La marca de 2023 senala el ano de entrada en vigor: la cifra de ese ano incluye meses anteriores y posteriores a mayo.",
+      "fuentes": [
+        {
+          "nombre": "Ministerio de Vivienda, tabla estadística de viviendas por régimen de protección",
+          "url": "https://cdn.mivau.gob.es/portal-web-mivau/Datos_MIVAU/CSV/VDP005_01.csv",
+          "tipo": "primaria"
+        },
+        {
+          "nombre": "Catálogo oficial de datos.gob.es (descripción y descarga)",
+          "url": "https://datos.gob.es/es/catalogo/e05233601-numero-de-viviendas-iniciadas-y-terminadas-por-regimen-de-proteccion",
+          "tipo": "metadatos"
+        },
+        {
+          "nombre": "Servimedia, recopilación publicada el 25/10/2026 con datos ministeriales",
+          "url": "https://www.servimedia.es/noticias/88-750000-viviendas-terminadas-espana-desde-2018-fueron-para-mercado-libre/1413477346",
+          "tipo": "serie_secundaria"
+        }
+      ],
+      "fecha_revision": "2026-10-26",
+      "grado_atribucion": "No evaluado",
+      "proximo_paso": "Cotejar la descarga actual del Ministerio y desagregar por comunidad autónoma, régimen de tenencia y fechas de inicio de cada promoción.",
+      "estado_contraste": "Valores reproducidos desde una recopilacion ministerial y verificacion puntual del comunicado oficial de 2024; cotejo completo de CSV original pendiente."
+    },
+    {
+      "id": "emancipacion",
+      "nombre": "Tasa de emancipación juvenil (16 a 29 años)",
+      "unidad": "% de personas jóvenes",
+      "tipo": "resultado_observado",
+      "frecuencia": "segundo semestre de cada año",
+      "ambito": "España",
+      "serie": [
+        [
+          2019,
+          18.7
+        ],
+        [
+          2020,
+          15.8
+        ],
+        [
+          2021,
+          15.6
+        ],
+        [
+          2022,
+          15.9
+        ],
+        [
+          2023,
+          17.0
+        ],
+        [
+          2024,
+          15.2
+        ],
+        [
+          2025,
+          14.5
+        ]
+      ],
+      "explicacion": "Porcentaje de jóvenes que viven fuera del hogar familiar. Depende también de empleo, salarios, migración, educación, oferta y precios. No mide exclusivamente las consecuencias de esta ley.",
+      "advertencia": "Se utiliza el segundo semestre de cada año para comparar períodos equivalentes. Las variaciones de la tasa por sí solas no permiten atribuir una causa; los datos de 2025 proceden del observatorio publicado en mayo de 2026.",
+      "fuentes": [
+        {
+          "nombre": "Consejo de la Juventud de España, Observatorio de Emancipación",
+          "url": "https://www.cje.org/observatorio-de-emancipacion/",
+          "tipo": "primaria"
+        },
+        {
+          "nombre": "Provivienda, serie de emancipación 2015-2023 procedente del CJE",
+          "url": "https://provivienda.org/observatorio/consecuencias-del-problema/emancipacion/",
+          "tipo": "serie_secundaria"
+        },
+        {
+          "nombre": "CJE: segundo semestre de 2024 (15,2 %)",
+          "url": "https://www.cje.org/la-emancipacion-juvenil-cae-a-minimos-historicos-en-un-segundo-semestre-solo-el-152-de-la-juventud-espanola-vive-fuera-del-hogar-familiar/",
+          "tipo": "primaria"
+        },
+        {
+          "nombre": "CJE 2025 en Junta de Andalucía: cierre 2025 (14,5 %)",
+          "url": "https://www.juntadeandalucia.es/organismos/ces/servicios/estudios-informes/detalle/664144.html",
+          "tipo": "institucional"
+        }
+      ],
+      "fecha_revision": "2026-10-26",
+      "grado_atribucion": "No evaluado",
+      "proximo_paso": "Controlar cambios en la composición de los hogares, renta disponible, mercado laboral y diferencias territoriales antes de formular hipótesis causales.",
+      "estado_contraste": "Serie documentada con CJE y reproduccion secundaria; pendiente verificacion automatizada de homogeneidad entre ediciones del observatorio."
+    }
+  ],
+  "metodologia": "Estos indicadores describen cambios asociados a objetivos generales de vivienda, no una estimación del efecto causal de la Ley 12/2023. El corte en mayo de 2023 no establece por sí solo un experimento natural ni elimina tendencias anteriores o medidas simultáneas. Las cifras anuales de 2023 no son estrictamente posteriores a la entrada en vigor: la linea del grafico indica el ano, no un corte de observacion exacto. Las cifras anuales de 2023 no son estrictamente posteriores a la entrada en vigor: la linea del grafico indica el ano, no un corte de observacion exacto."
+}

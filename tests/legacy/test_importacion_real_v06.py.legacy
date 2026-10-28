@@ -1,0 +1,88 @@
+"""Pruebas de la v0.6 usando los 3 CSV integrados, sin datos sintéticos."""
+import json,hashlib,re
+from pathlib import Path
+from playwright.sync_api import sync_playwright
+ROOT=Path(__file__).resolve().parent.parent
+AUDIT=json.loads((ROOT/'datos/auditoria_XV.json').read_text(encoding='utf-8'))
+MANIFEST=json.loads((ROOT/'datos/paquetes.json').read_text(encoding='utf-8'))
+assert AUDIT['resultado']['votaciones']==2175
+assert AUDIT['resultado']['registros_grupo']==19561
+assert AUDIT['resultado']['registros_diputado']==726564
+assert sum(int(p['registros']) for p in MANIFEST['paquetes'])==2175
+for p in MANIFEST['paquetes']:
+ path=ROOT/p['ruta']; content=path.read_bytes();assert hashlib.sha256(content).hexdigest()==p['sha256']
+ print('AÑO',p['anio'],'votos',p['registros'])
+with sync_playwright() as p:
+ browser=p.chromium.launch(headless=True,executable_path='/usr/bin/chromium',args=['--no-sandbox','--no-proxy-server','--allow-file-access-from-files'])
+ page=browser.new_page(viewport={'width':1350,'height':920});errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
+ html=(ROOT/'index.html').read_text(encoding='utf8')
+ html=re.sub(r'<script[^>]*src="[^"]+"[^>]*></script>', '', html)
+ html=re.sub(r'<link[^>]*stylesheet[^>]*>', '', html)
+ html=html.replace('<head>', '<head><base href="https://qhv-local.invalid/">')
+ def local_route(route):
+  rel=route.request.url.split('qhv-local.invalid/',1)[-1]
+  f=ROOT/rel
+  if f.is_file() and str(f.resolve()).startswith(str(ROOT.resolve())):route.fulfill(body=f.read_bytes(), content_type='text/javascript' if f.suffix=='.js' else 'application/json')
+  else:route.fulfill(status=404, body='missing')
+ page.route('https://qhv-local.invalid/**',local_route)
+ page.set_content(html,wait_until='domcontentloaded')
+ page.add_style_tag(path=str(ROOT/'assets/styles.css'))
+ for name in ['core.js','bootstrap.js','nominal_catalog.js','precarga_XV.js','app.js']:page.add_script_tag(path=str(ROOT/'assets'/name))
+ page.wait_for_function('window.QHV_TEST && window.QHV_TEST.getState().votes === 2175',timeout=20000)
+ state=page.evaluate('QHV_TEST.getState()');print('BROWSER initial', {k:v for k,v in state.items() if k!='coverage'})
+ assert state['groups']==19561 and state['parties']==0 and not state['isDemo']
+ assert page.locator('.vote-card').count()==10
+ assert page.locator('#mVotes').inner_text().strip()=='2.175'
+ # Grupos reales, no solo los de la muestra.
+ assert page.locator('#actorFilter option').count()==11
+ page.locator('#actorFilter').select_option('Mixto')
+ assert page.locator('#mVotes').inner_text()=='2.173'
+ page.locator('#actorFilter').select_option('')
+ page.locator('#search').fill('alquiler')
+ assert page.evaluate('QHV_TEST.getState().visible')>0
+ page.locator('#search').fill('')
+ page.locator('#actorType').select_option('partido')
+ assert page.locator('#actorFilter option').count()==1
+ page.locator('#actorType').select_option('grupo')
+ # Rango de fechas sobre datos reales.
+ page.locator('#fromFilter').fill('2025-01-01');page.locator('#toFilter').fill('2025-12-31')
+ count=page.locator('#mVotes').inner_text();print('YEAR 2025 found',count)
+ assert count=='741',count
+ page.locator('#resetFilters').click()
+ # Detalle nominal (s202-v020) cargado desde archivo de sesión.
+ page.evaluate("QHV_TEST.showVote('XV:s202-v020')")
+ assert page.locator('#cargarDiputados').count()==1
+ assert page.locator('#dialogBody').inner_text().find('343')>=0
+ page.locator('#cargarDiputados').click()
+ page.wait_for_function("document.querySelector('#nominalCount') && document.querySelector('#nominalCount').textContent.includes('350')",timeout=18000)
+ assert page.locator('#nominalList tbody tr').count()==350
+ print('NOMINAL loaded 350 rows, sample:',page.locator('#nominalList tbody tr').first.inner_text()[:180])
+ page.locator('#nominalSearch').fill('Héctor Palencia Rubio')
+ assert page.locator('#nominalList tbody tr').count()==1
+ page.locator('#closeDialog').click()
+ # Dos votos solo con resultado global: conservados, no inventar diputados.
+ page.evaluate("QHV_TEST.showVote('XV:s202-v021')")
+ assert page.locator('#cargarDiputados').count()==0
+ assert 'no tiene votos individuales' in page.locator('#dialogBody').inner_text()
+ page.locator('#closeDialog').click()
+ # Caso con identificador descriptivo del proveedor.
+ page.evaluate("QHV_TEST.showVote('XV:pl-ley-vivienda-sumar-2026')")
+ page.locator('#cargarDiputados').click()
+ page.wait_for_function("document.querySelector('#nominalCount') && document.querySelector('#nominalCount').textContent.includes('350')",timeout=18000)
+ assert page.locator('#nominalList tbody tr').count()==350
+ page.locator('#closeDialog').click()
+ page.screenshot(path=str(ROOT/'preview_v06_escritorio.png'),full_page=False)
+ assert not errors,errors
+ mobile=browser.new_page(viewport={'width':390,'height':844},device_scale_factor=1)
+ mobile.route('https://qhv-local.invalid/**',local_route)
+ mobile.set_content(html,wait_until='domcontentloaded')
+ mobile.add_style_tag(path=str(ROOT/'assets/styles.css'))
+ for name in ['core.js','bootstrap.js','nominal_catalog.js','precarga_XV.js','app.js']:mobile.add_script_tag(path=str(ROOT/'assets'/name))
+ mobile.wait_for_function('window.QHV_TEST && window.QHV_TEST.getState().votes === 2175',timeout=20000)
+ mobile.screenshot(path=str(ROOT/'preview_v06_movil.png'),full_page=False)
+ mobile.evaluate("QHV_TEST.showVote('XV:s202-v020')")
+ mobile.locator('#cargarDiputados').click()
+ mobile.wait_for_function("document.querySelector('#nominalList tbody tr')",timeout=18000)
+ print('MOBILE nominal details:',mobile.locator('#nominalList tbody tr').count())
+ browser.close()
+print('OK v06: votos, grupos, filtros, nominal por sesión, especiales, suplicatorios, móvil.')

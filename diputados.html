@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diputadas y diputados · Qué has hecho con mi voto</title>
+<meta name="description" content="Censo de personas de la XV Legislatura cruzado con los identificadores y votos nominales del Congreso de los Diputados.">
+<link rel="stylesheet" href="assets/styles.css"></head>
+<body>
+<a class="skip" href="#censo">Ir al censo</a>
+<header class="site-header"><div class="container header-flex"><a class="wordmark" href="index.html"><span class="brand-glyph" aria-hidden="true">◉</span><span><b>Qué has hecho</b><small>con mi voto</small></span></a>
+<nav aria-label="Navegación principal"><a href="index.html">España en datos</a><a href="congreso.html">Qué han votado</a><a href="proyecto.html">Conoce el proyecto</a></nav></div></header>
+<main><section class="census-hero"><div class="container"><span class="kicker">IDENTIFICACIÓN PARLAMENTARIA · XV LEGISLATURA</span><h1>¿Quién estaba en el Congreso?</h1><p>Busca diputados y diputadas por su nombre y accede a su ficha oficial. La lista incluye a personas que aparecen en el censo de la XV Legislatura, aunque no figuren en el archivo de votos nominales descargado.</p></div></section>
+<div class="container" id="censo"><div class="census-stats" aria-label="Cobertura"><div><b>412</b><span>personas en el censo oficial</span></div><div><b>350</b><span>con código en el CSV nominal</span></div><div><b>62</b><span>sin código en ese CSV</span></div></div>
+<div class="info-status mixed"><span class="status-symbol">i</span><span>El cruce entre 350 códigos y 350 nombres ha sido unívoco. Los otros 62 registros <strong>no significan que esas personas nunca hayan votado</strong>: el archivo individual recibido no es un censo de todos los relevos de escaños. El CSV general de diputados no indica partidos ni fechas individuales de alta.</span></div>
+<div class="census-controls"><label>Buscar por nombre o código<input id="censoQuery" type="search" placeholder="Ej.: Belarra, 262, Rego" autocomplete="off"></label>
+<label>Disponibilidad en el CSV<select id="censoState"><option value="all">Todos los nombres</option><option value="with">Con código y votos nominales</option><option value="without">Sin código en el archivo nominal</option></select></label></div>
+<p id="censoCount" aria-live="polite"></p><section id="censoResults" class="census-entries" aria-label="Personas encontradas"></section><div class="pagination" style="margin:20px 0"><button id="censoPrev" class="btn" type="button">Anterior</button><span id="censoPage">Página 1</span><button id="censoNext" class="btn" type="button">Siguiente</button></div>
+<section class="method" style="padding-top:26px"><h2>Qué significan los datos</h2><p>El código identifica al parlamentario en el registro nominal. La formación que puede figurar en su ficha oficial no es siempre su partido de afiliación, y el grupo parlamentario puede cambiar durante la legislatura. Por eso <strong>no hemos repartido automáticamente los votos del Grupo Mixto o de SUMAR entre partidos</strong>.</p>
+<p>Las <a href="index.html">votaciones</a> contienen sus resultados y sus enlaces a los registros originales. Hay 50 votaciones con expediente cotejado y 2.127 propuestas de asociación pendientes de revisión.</p>
+<p>Fuentes: <a href="https://www.congreso.es/es/opendata/diputados" target="_blank" rel="noopener noreferrer">censo oficial de diputados</a>, <a href="https://congresoabierto.org/datos/" target="_blank" rel="noopener noreferrer">CSV de votos de Congreso Abierto</a>. Descarga: <a href="datos/censo_XV.csv">censo cruzado (CSV)</a> · <a href="datos/auditoria_v07.json" target="_blank" rel="noopener">auditoría</a>.</p></section>
+</div></main>
+<footer><div class="container footer-flex"><span>Qué has hecho con mi voto · versión 0.8</span><a href="index.html">Volver a votaciones</a></div></footer>
+<script src="assets/identidades_XV.js"></script><script src="assets/censo.js"></script>
+</body></html>

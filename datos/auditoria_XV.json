@@ -1,0 +1,840 @@
+{
+  "version": "0.6",
+  "fecha_auditoria": "2026-10-26",
+  "ambito": "XV · catálogo de votaciones nominales de Congreso Abierto · periodo de los CSV recibidos",
+  "url_catalogo": "https://congresoabierto.org/datos/",
+  "url_datos_primarios": "https://www.congreso.es/es/opendata/votaciones",
+  "archivos_originales": {
+    "votaciones": {
+      "nombre": "congreso-abierto-votaciones.csv",
+      "bytes": 568386,
+      "sha256": "5622e7275d5c2a6d2f3434131a98dafc5d8870994a8ef25f181eec3f08efa56b"
+    },
+    "grupos": {
+      "nombre": "congreso-abierto-votos-grupo.csv",
+      "bytes": 985851,
+      "sha256": "c3c71398fa28e25f8bc0775726e5dc99caf0dbdfd60bcdba6882389810222be7"
+    },
+    "diputados": {
+      "nombre": "congreso-abierto-votos-diputados.csv",
+      "bytes": 48021043,
+      "sha256": "e1da17f2fe525f450f793937e5eea77855d1e34f21ccfaccb4fd401a0b8b383e"
+    }
+  },
+  "resultado": {
+    "votaciones": 2175,
+    "registros_grupo": 19561,
+    "registros_diputado": 726564,
+    "fechas": [
+      "2023-09-19",
+      "2026-09-30"
+    ],
+    "votaciones_por_anio": {
+      "2023": 32,
+      "2024": 862,
+      "2025": 741,
+      "2026": 540
+    },
+    "votaciones_con_grupos": 2173,
+    "votaciones_con_nominales": 2173,
+    "grupos_distintos": [
+      "EH Bildu",
+      "ERC",
+      "Junts",
+      "Mixto",
+      "PNV",
+      "PP",
+      "PSOE",
+      "SUMAR",
+      "Sin grupo",
+      "VOX"
+    ],
+    "diputados_nombres_distintos": 350,
+    "ficheros_nominales_por_sesion": 145,
+    "materias_fuente": {
+      "justicia": 169,
+      "instituciones": 137,
+      "educacion": 37,
+      "igualdad": 129,
+      "campo-medioambiente": 75,
+      "migracion": 60,
+      "exterior": 85,
+      "transporte": 266,
+      "defensa": 28,
+      "territorio": 113,
+      "economia": 261,
+      "otros": 749,
+      "trabajo": 158,
+      "sanidad": 139,
+      "vivienda": 98
+    }
+  },
+  "identificadores_fuera_del_patron_sesion": [
+    "pl-ley-vivienda-sumar-2026",
+    "pnl-especulacion-2026",
+    "pl-okupacion-pp-2026",
+    "rdl-8-2026",
+    "pl-suelo-vivienda-pp-2026",
+    "pl-pisos-turisticos-2025",
+    "pl-alquiler-temporada-2024-12"
+  ],
+  "controles": {
+    "ids_votacion_unicos": true,
+    "filas_grupo_unicas_por_id_y_nombre": true,
+    "filas_nominales_unicas_por_id_y_nombre": true,
+    "fechas_compatibles_en_tres_csv": true,
+    "votos_por_grupo_concilian_con_totales": true,
+    "discrepancias_grupos_vs_totales": 0,
+    "discrepancias_nominal_vs_totales": 2078,
+    "discrepancias_nominal_vs_grupo": 12750,
+    "votaciones_sin_grupo": [
+      "s202-v021",
+      "s89-v005"
+    ],
+    "votaciones_sin_nominal": [
+      "s202-v021",
+      "s89-v005"
+    ]
+  },
+  "muestras_discrepancias": {
+    "nominal_vs_totales": [
+      {
+        "id": "s196-v021",
+        "general": [
+          314,
+          0,
+          32
+        ],
+        "nominal": [
+          313,
+          0,
+          32
+        ]
+      },
+      {
+        "id": "s196-v020",
+        "general": [
+          177,
+          168,
+          0
+        ],
+        "nominal": [
+          177,
+          167,
+          0
+        ]
+      },
+      {
+        "id": "s196-v019",
+        "general": [
+          268,
+          0,
+          77
+        ],
+        "nominal": [
+          267,
+          0,
+          77
+        ]
+      },
+      {
+        "id": "s196-v018",
+        "general": [
+          156,
+          0,
+          189
+        ],
+        "nominal": [
+          155,
+          0,
+          189
+        ]
+      },
+      {
+        "id": "s196-v017",
+        "general": [
+          263,
+          57,
+          25
+        ],
+        "nominal": [
+          262,
+          57,
+          25
+        ]
+      },
+      {
+        "id": "s196-v016",
+        "general": [
+          165,
+          32,
+          148
+        ],
+        "nominal": [
+          164,
+          32,
+          148
+        ]
+      },
+      {
+        "id": "s196-v015",
+        "general": [
+          170,
+          175,
+          0
+        ],
+        "nominal": [
+          170,
+          174,
+          0
+        ]
+      },
+      {
+        "id": "s196-v014",
+        "general": [
+          176,
+          36,
+          133
+        ],
+        "nominal": [
+          176,
+          36,
+          132
+        ]
+      },
+      {
+        "id": "s196-v013",
+        "general": [
+          176,
+          44,
+          126
+        ],
+        "nominal": [
+          176,
+          44,
+          125
+        ]
+      },
+      {
+        "id": "s196-v012",
+        "general": [
+          175,
+          36,
+          135
+        ],
+        "nominal": [
+          175,
+          36,
+          134
+        ]
+      },
+      {
+        "id": "s196-v011",
+        "general": [
+          183,
+          36,
+          126
+        ],
+        "nominal": [
+          183,
+          36,
+          125
+        ]
+      },
+      {
+        "id": "s196-v010",
+        "general": [
+          183,
+          36,
+          127
+        ],
+        "nominal": [
+          183,
+          36,
+          126
+        ]
+      },
+      {
+        "id": "s196-v009",
+        "general": [
+          171,
+          44,
+          131
+        ],
+        "nominal": [
+          171,
+          44,
+          130
+        ]
+      },
+      {
+        "id": "s196-v008",
+        "general": [
+          176,
+          43,
+          127
+        ],
+        "nominal": [
+          176,
+          43,
+          126
+        ]
+      },
+      {
+        "id": "s196-v007",
+        "general": [
+          170,
+          168,
+          8
+        ],
+        "nominal": [
+          170,
+          167,
+          8
+        ]
+      },
+      {
+        "id": "s196-v006",
+        "general": [
+          32,
+          177,
+          137
+        ],
+        "nominal": [
+          32,
+          176,
+          137
+        ]
+      },
+      {
+        "id": "s196-v005",
+        "general": [
+          163,
+          174,
+          8
+        ],
+        "nominal": [
+          162,
+          174,
+          8
+        ]
+      },
+      {
+        "id": "s196-v004",
+        "general": [
+          170,
+          175,
+          1
+        ],
+        "nominal": [
+          170,
+          174,
+          1
+        ]
+      },
+      {
+        "id": "s196-v003",
+        "general": [
+          168,
+          31,
+          145
+        ],
+        "nominal": [
+          167,
+          31,
+          145
+        ]
+      },
+      {
+        "id": "s196-v002",
+        "general": [
+          169,
+          177,
+          1
+        ],
+        "nominal": [
+          169,
+          176,
+          1
+        ]
+      },
+      {
+        "id": "s196-v001",
+        "general": [
+          139,
+          207,
+          1
+        ],
+        "nominal": [
+          139,
+          206,
+          1
+        ]
+      },
+      {
+        "id": "s195-v002",
+        "general": [
+          342,
+          0,
+          0
+        ],
+        "nominal": [
+          341,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "s195-v001",
+        "general": [
+          312,
+          30,
+          1
+        ],
+        "nominal": [
+          311,
+          30,
+          1
+        ]
+      },
+      {
+        "id": "s193-v020",
+        "general": [
+          166,
+          176,
+          5
+        ],
+        "nominal": [
+          165,
+          175,
+          5
+        ]
+      },
+      {
+        "id": "s193-v019",
+        "general": [
+          170,
+          178,
+          0
+        ],
+        "nominal": [
+          169,
+          177,
+          0
+        ]
+      }
+    ],
+    "nominal_vs_grupo": [
+      {
+        "id": "s196-v021",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          119,
+          0,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          118,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v020",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          118,
+          0,
+          3
+        ],
+        "nominal_csv": [
+          0,
+          117,
+          0,
+          3
+        ]
+      },
+      {
+        "id": "s196-v019",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          119,
+          0,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          118,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v018",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          119,
+          0,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          118,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v017",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          119,
+          0,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          118,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v016",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          119,
+          0,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          118,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v015",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          119,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          118,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v014",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          0,
+          119,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          0,
+          118,
+          2
+        ]
+      },
+      {
+        "id": "s196-v013",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          0,
+          119,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          0,
+          118,
+          2
+        ]
+      },
+      {
+        "id": "s196-v012",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          0,
+          119,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          0,
+          118,
+          2
+        ]
+      },
+      {
+        "id": "s196-v011",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          0,
+          119,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          0,
+          118,
+          2
+        ]
+      },
+      {
+        "id": "s196-v010",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          0,
+          119,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          0,
+          118,
+          2
+        ]
+      },
+      {
+        "id": "s196-v009",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          0,
+          119,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          0,
+          118,
+          2
+        ]
+      },
+      {
+        "id": "s196-v008",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          0,
+          119,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          0,
+          118,
+          2
+        ]
+      },
+      {
+        "id": "s196-v007",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          119,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          118,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v006",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          119,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          118,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v005",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          119,
+          0,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          118,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v004",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          119,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          118,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v003",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          119,
+          0,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          118,
+          0,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s196-v002",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          120,
+          0,
+          1
+        ],
+        "nominal_csv": [
+          0,
+          119,
+          0,
+          1
+        ]
+      },
+      {
+        "id": "s196-v001",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          0,
+          120,
+          0,
+          1
+        ],
+        "nominal_csv": [
+          0,
+          119,
+          0,
+          1
+        ]
+      },
+      {
+        "id": "s195-v002",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          120,
+          0,
+          0,
+          1
+        ],
+        "nominal_csv": [
+          119,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "id": "s195-v001",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          120,
+          0,
+          0,
+          1
+        ],
+        "nominal_csv": [
+          119,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "id": "s193-v020",
+        "grupo": "PP",
+        "grupo_csv": [
+          0,
+          135,
+          0,
+          2
+        ],
+        "nominal_csv": [
+          0,
+          134,
+          0,
+          2
+        ]
+      },
+      {
+        "id": "s193-v020",
+        "grupo": "PSOE",
+        "grupo_csv": [
+          121,
+          0,
+          0,
+          0
+        ],
+        "nominal_csv": [
+          120,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  "estado": "ÍNTEGRO respecto a los tres CSV aportados; cobertura oficial universal NO verificada",
+  "limitaciones": [
+    "El proveedor registra votaciones nominales del Pleno; no incluye necesariamente llamamientos, votaciones secretas o comisiones.",
+    "Dos suplicatorios no tienen desgloses nominales ni por grupo; se conservan únicamente sus totales generales.",
+    "Los datos de diputados no siempre reproducen los recuentos agregados: publicar ambos sin imputar votos ausentes.",
+    "Existen identificadores legibles no homologados al patrón sesión-votación; se preservan y se marcan para cotejo documental.",
+    "El CSV no contiene identificadores persistentes de diputado, candidatura, ni afiliación política; se muestra nombre y grupo, no partido inferido.",
+    "No se dispone de URL oficial específica para cada fila en estos CSV; se enlaza el catálogo de procedencia y la fuente primaria general.",
+    "Las categorías temáticas derivan de etiquetas amplias y de coincidencias automáticas, por lo que son provisionales."
+  ]
+}

@@ -1,0 +1,3941 @@
+{
+  "legislatura": "XV",
+  "anio": "2023",
+  "votaciones": [
+    {
+      "id": "s2-v001",
+      "legislatura": "XV",
+      "fecha": "2023-09-19",
+      "titulo": "Proposición de los Grupos Parlamentarios Socialista, Plurinacional SUMAR, Republicano, Euskal Herria Bildu, Mixto y Vasco (EAJ-PNV), de reforma del Reglamento del Congreso de los Diputados.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 176,
+      "no": 169,
+      "abstencion": 2,
+      "no_vota": 3,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion002/20230919/Votacion001/VOT_20230919152005.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001",
+      "expediente": "410/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 12ce5293a7292e455d73780320a5ad28958db69519c11e9af2001d9921c1c1f6",
+      "expedientes": [
+        "410/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-09-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F09%2F2023"
+    },
+    {
+      "id": "s2-v002",
+      "legislatura": "XV",
+      "fecha": "2023-09-19",
+      "titulo": "Acuerdo de tramitación directa y en lectura única de la Proposición de reforma del Reglamento del Congreso de los Diputados.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 179,
+      "no": 171,
+      "abstencion": 0,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion002/20230919/Votacion002/VOT_20230919152013.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001",
+      "expediente": "410/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 12ce5293a7292e455d73780320a5ad28958db69519c11e9af2001d9921c1c1f6",
+      "expedientes": [
+        "410/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-09-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F09%2F2023"
+    },
+    {
+      "id": "s3-v001",
+      "legislatura": "XV",
+      "fecha": "2023-09-21",
+      "titulo": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 33,
+      "no": 179,
+      "abstencion": 138,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion003/20230921/Votacion001/VOT_20230921120048.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001",
+      "expediente": "410/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 1f475a8dbc78c8cb2891a378ba242ddeebc83d99d0022e94c95a80f4351e3701",
+      "expedientes": [
+        "410/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-09-21.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=21%2F09%2F2023"
+    },
+    {
+      "id": "s3-v002",
+      "legislatura": "XV",
+      "fecha": "2023-09-21",
+      "titulo": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 178,
+      "no": 33,
+      "abstencion": 139,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion003/20230921/Votacion002/VOT_20230921120052.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001",
+      "expediente": "410/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 1f475a8dbc78c8cb2891a378ba242ddeebc83d99d0022e94c95a80f4351e3701",
+      "expedientes": [
+        "410/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-09-21.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=21%2F09%2F2023"
+    },
+    {
+      "id": "s3-v003",
+      "legislatura": "XV",
+      "fecha": "2023-09-21",
+      "titulo": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 170,
+      "no": 179,
+      "abstencion": 0,
+      "no_vota": 1,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion003/20230921/Votacion003/VOT_20230921120056.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001",
+      "expediente": "410/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 1f475a8dbc78c8cb2891a378ba242ddeebc83d99d0022e94c95a80f4351e3701",
+      "expedientes": [
+        "410/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-09-21.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=21%2F09%2F2023"
+    },
+    {
+      "id": "s3-v004",
+      "legislatura": "XV",
+      "fecha": "2023-09-21",
+      "titulo": "Proposición de reforma del Reglamento del Congreso de los Diputados.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 180,
+      "no": 170,
+      "abstencion": 0,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion003/20230921/Votacion004/VOT_20230921120100.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001",
+      "expediente": "410/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 1f475a8dbc78c8cb2891a378ba242ddeebc83d99d0022e94c95a80f4351e3701",
+      "expedientes": [
+        "410/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-09-21.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=21%2F09%2F2023"
+    },
+    {
+      "id": "s9-v001",
+      "legislatura": "XV",
+      "fecha": "2023-11-28",
+      "titulo": "Proposición de los Grupos Parlamentarios Popular en el Congreso, Socialista y Plurinacional SUMAR, de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 46.1.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 311,
+      "no": 31,
+      "abstencion": 0,
+      "no_vota": 8,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion009/20231128/Votacion001/VOT_20231128183358.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000004",
+      "expediente": "410/000004",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ca4a10f4c3d55c2f0a8625087eb7184b9f15bbf39bb36bcb323905b6ec95c184",
+      "expedientes": [
+        "410/000004"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000004"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-11-28.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=28%2F11%2F2023"
+    },
+    {
+      "id": "s9-v002",
+      "legislatura": "XV",
+      "fecha": "2023-11-28",
+      "titulo": "Acuerdo de tramitación directa y en lectura única de la Proposición de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 46.1.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 312,
+      "no": 31,
+      "abstencion": 0,
+      "no_vota": 7,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion009/20231128/Votacion002/VOT_20231128183404.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000004",
+      "expediente": "410/000004",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ca4a10f4c3d55c2f0a8625087eb7184b9f15bbf39bb36bcb323905b6ec95c184",
+      "expedientes": [
+        "410/000004"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000004"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-11-28.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=28%2F11%2F2023"
+    },
+    {
+      "id": "s9-v003",
+      "legislatura": "XV",
+      "fecha": "2023-11-28",
+      "titulo": "Votación de la enmienda a la totalidad de texto alternativo a la Proposición de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 46.1, presentada por el Grupo Parlamentario VOX.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 33,
+      "no": 314,
+      "abstencion": 0,
+      "no_vota": 3,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion009/20231128/Votacion003/VOT_20231128183408.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000004",
+      "expediente": "410/000004",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ca4a10f4c3d55c2f0a8625087eb7184b9f15bbf39bb36bcb323905b6ec95c184",
+      "expedientes": [
+        "410/000004"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000004"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-11-28.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=28%2F11%2F2023"
+    },
+    {
+      "id": "s9-v004",
+      "legislatura": "XV",
+      "fecha": "2023-11-28",
+      "titulo": "Solicitud de los Grupos Parlamentarios Popular en el Congreso, Socialista y Plurinacional SUMAR, de creación de una Comisión de seguimiento y evaluación de los acuerdos del Pacto de Toledo.",
+      "temas": "otros",
+      "areas": [
+        "sin-clasificar"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 311,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 6,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion009/20231128/Votacion004/VOT_20231128183412.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "",
+      "expediente": "155/000001, 155/000002",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ca4a10f4c3d55c2f0a8625087eb7184b9f15bbf39bb36bcb323905b6ec95c184",
+      "expedientes": [
+        "155/000001",
+        "155/000002"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=155%2F000001",
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=155%2F000002"
+      ],
+      "expediente_estado": "MULTIPLE_HTML",
+      "expediente_fuente_html": "2023-11-28.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=28%2F11%2F2023"
+    },
+    {
+      "id": "s9-v005",
+      "legislatura": "XV",
+      "fecha": "2023-11-28",
+      "titulo": "Votación de conjunto de la Proposición de reforma del Reglamento del Congreso de los Diputados por la que se modifica el artículo 46.1.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 311,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 6,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion009/20231128/Votacion005/VOT_20231128183414.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000004",
+      "expediente": "410/000004",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ca4a10f4c3d55c2f0a8625087eb7184b9f15bbf39bb36bcb323905b6ec95c184",
+      "expedientes": [
+        "410/000004"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=410%2F000004"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-11-28.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=28%2F11%2F2023"
+    },
+    {
+      "id": "s11-v002",
+      "legislatura": "XV",
+      "fecha": "2023-12-12",
+      "titulo": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica para la modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, en materia de delitos contra la libertad e indemnidad sexuales.",
+      "temas": "justicia",
+      "areas": [
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 33,
+      "no": 316,
+      "abstencion": 1,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion011/20231212/Votacion002/VOT_20231212230023.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000009",
+      "expediente": "122/000009",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 7610c79abe8e8a8c7bc8c6bf422707a280ca9bb9af5d5a5f6c99291cd8a68368",
+      "expedientes": [
+        "122/000009"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000009"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-12.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=12%2F12%2F2023"
+    },
+    {
+      "id": "s11-v003",
+      "legislatura": "XV",
+      "fecha": "2023-12-12",
+      "titulo": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, sobre la ampliación norte del Puerto de Valencia.",
+      "temas": "otros",
+      "areas": [
+        "sin-clasificar"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 260,
+      "no": 52,
+      "abstencion": 38,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion011/20231212/Votacion003/VOT_20231212230031.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162%2F000061",
+      "expediente": "162/000061",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 7610c79abe8e8a8c7bc8c6bf422707a280ca9bb9af5d5a5f6c99291cd8a68368",
+      "expedientes": [
+        "162/000061"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162%2F000061"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-12.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=12%2F12%2F2023"
+    },
+    {
+      "id": "s11-v004",
+      "legislatura": "XV",
+      "fecha": "2023-12-12",
+      "titulo": "Proposición no de Ley del Grupo Parlamentario VOX, para impedir que miembros del Gobierno o cualquier autoridad o funcionario, colaboren, negocien o pacten con prófugos o condenados por la Justicia.",
+      "temas": "justicia",
+      "areas": [
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 167,
+      "no": 182,
+      "abstencion": 1,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion011/20231212/Votacion004/VOT_20231212230035.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162%2F000007",
+      "expediente": "162/000007",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 7610c79abe8e8a8c7bc8c6bf422707a280ca9bb9af5d5a5f6c99291cd8a68368",
+      "expedientes": [
+        "162/000007"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162%2F000007"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-12.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=12%2F12%2F2023"
+    },
+    {
+      "id": "s11-v005",
+      "legislatura": "XV",
+      "fecha": "2023-12-12",
+      "titulo": "Dación de Cuentas de la Diputación Permanente del Congreso de los Diputados de la XIV Legislatura a la Cámara de la XV.",
+      "temas": "otros",
+      "areas": [
+        "sin-clasificar"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 343,
+      "no": 0,
+      "abstencion": 7,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion011/20231212/Votacion005/VOT_20231212230037.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=062%2F000001",
+      "expediente": "062/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 7610c79abe8e8a8c7bc8c6bf422707a280ca9bb9af5d5a5f6c99291cd8a68368",
+      "expedientes": [
+        "062/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=062%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-12.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=12%2F12%2F2023"
+    },
+    {
+      "id": "s11-v006",
+      "legislatura": "XV",
+      "fecha": "2023-12-12",
+      "titulo": "Solicitud de los Grupos Parlamentarios Junts per Catalunya y Vasco (EAJ-PNV), de creación de una Comisión de Investigación sobre la denominada \"Operación Cataluña\" y las actuaciones del Ministerio del Interior durante los gobiernos del Partido Popular en relación con las presuntas irregularidades que vinculan a altos cargos y mandos policiales con la existencia de una trama parapolicial.",
+      "temas": "territorio | instituciones",
+      "areas": [
+        "organización-territorial-y-autonomías",
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 178,
+      "no": 171,
+      "abstencion": 1,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion011/20231212/Votacion006/VOT_20231212230040.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=156%2F000001",
+      "expediente": "156/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 7610c79abe8e8a8c7bc8c6bf422707a280ca9bb9af5d5a5f6c99291cd8a68368",
+      "expedientes": [
+        "156/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=156%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-12.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=12%2F12%2F2023"
+    },
+    {
+      "id": "s11-v007",
+      "legislatura": "XV",
+      "fecha": "2023-12-12",
+      "titulo": "Solicitud de los Grupos Parlamentarios Junts per Catalunya y Vasco (EAJ-PNV), de creación de una Comisión de Investigación sobre el derecho a saber la verdad y las implicaciones derivadas de los atentados de Barcelona y Cambrils del 17 de agosto de 2017.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 178,
+      "no": 171,
+      "abstencion": 1,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion011/20231212/Votacion007/VOT_20231212230042.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=156%2F000002",
+      "expediente": "156/000002",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 7610c79abe8e8a8c7bc8c6bf422707a280ca9bb9af5d5a5f6c99291cd8a68368",
+      "expedientes": [
+        "156/000002"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=156%2F000002"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-12.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=12%2F12%2F2023"
+    },
+    {
+      "id": "s11-v008",
+      "legislatura": "XV",
+      "fecha": "2023-12-12",
+      "titulo": "Solicitud de los Grupos Parlamentarios Republicano, Euskal Herria Bildu y Mixto, de creación de una Comisión de Investigación sobre el espionaje e intromisión a la privacidad e intimidad, a través de los malware Pegasus y Candiru, a líderes políticos, activistas, abogados, periodistas, instituciones y sus familiares y allegados.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 179,
+      "no": 171,
+      "abstencion": 0,
+      "no_vota": 0,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion011/20231212/Votacion008/VOT_20231212230045.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=156%2F000003",
+      "expediente": "156/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 7610c79abe8e8a8c7bc8c6bf422707a280ca9bb9af5d5a5f6c99291cd8a68368",
+      "expedientes": [
+        "156/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=156%2F000003"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-12.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=12%2F12%2F2023"
+    },
+    {
+      "id": "s13-v001",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, Orgánica de reforma de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal para la protección de la libertad de expresión.",
+      "temas": "igualdad | justicia",
+      "areas": [
+        "igualdad--feminismo-y-violencia-de-género",
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 177,
+      "no": 169,
+      "abstencion": 0,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion001/VOT_20231219233101.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000006",
+      "expediente": "122/000006",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "122/000006"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000006"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v002",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Proposición de Ley del Grupo Parlamentario Republicano, para garantizar el derecho a la autonomía de la voluntad de los y las deportistas.",
+      "temas": "otros",
+      "areas": [
+        "sin-clasificar"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 177,
+      "no": 169,
+      "abstencion": 0,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion002/VOT_20231219233106.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000007",
+      "expediente": "122/000007",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "122/000007"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122%2F000007"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v003",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Proposición no de Ley del Grupo Parlamentario Socialista, sobre un Pacto de Estado por la Salud Mental.",
+      "temas": "sanidad",
+      "areas": [
+        "sanidad-y-salud-pública"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 296,
+      "no": 0,
+      "abstencion": 49,
+      "no_vota": 5,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion003/VOT_20231219233110.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162%2F000080",
+      "expediente": "162/000080",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "162/000080"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162%2F000080"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v004",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Proposición no de Ley del Grupo Parlamentario Plurinacional SUMAR, sobre la reapertura de la línea ferroviaria internacional Pau-Canfranc-Zaragoza.",
+      "temas": "transporte",
+      "areas": [
+        "transporte--tráfico-y-movilidad"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 301,
+      "no": 7,
+      "abstencion": 33,
+      "no_vota": 9,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion004/VOT_20231219233113.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162%2F000014",
+      "expediente": "162/000014",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "162/000014"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162%2F000014"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v005",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Mixto (Sr. Rego Candamil), relativa a la aplicación de coeficientes reductores para la jubilación de las personas trabajadoras del sector de la extracción y la transformación de la piedra (granito y pizarra principalmente) y el reconocimiento de la incapacidad permanente con el diagnóstico de la silicosis.",
+      "temas": "trabajo",
+      "areas": [
+        "trabajo--empleo-y-relaciones-laborales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 187,
+      "no": 1,
+      "abstencion": 158,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion005/VOT_20231219233116.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000001",
+      "expediente": "173/000001",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "173/000001"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000001"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v006",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Moción consecuencia de interpelación urgente del Grupo Parlamentario VOX, sobre las medidas que va a llevar a cabo el Gobierno para garantizar nuestra soberanía alimentaria ante el aumento descontrolado de los precios de los alimentos.",
+      "temas": "otros",
+      "areas": [
+        "economía--empresas-y-competencia"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 169,
+      "no": 177,
+      "abstencion": 0,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion006/VOT_20231219233117.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000002",
+      "expediente": "173/000002",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "173/000002"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000002"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v007",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+      "temas": "justicia",
+      "areas": [
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 170,
+      "no": 176,
+      "abstencion": 0,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion007/VOT_20231219233119.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003",
+      "expediente": "173/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "173/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v008",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+      "temas": "justicia",
+      "areas": [
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 290,
+      "no": 56,
+      "abstencion": 0,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion008/VOT_20231219233121.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003",
+      "expediente": "173/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "173/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v009",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+      "temas": "justicia",
+      "areas": [
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 170,
+      "no": 176,
+      "abstencion": 0,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion009/VOT_20231219233123.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003",
+      "expediente": "173/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "173/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v010",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+      "temas": "justicia",
+      "areas": [
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 170,
+      "no": 176,
+      "abstencion": 0,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion010/VOT_20231219233125.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003",
+      "expediente": "173/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "173/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v011",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+      "temas": "justicia",
+      "areas": [
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 137,
+      "no": 176,
+      "abstencion": 33,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion011/VOT_20231219233127.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003",
+      "expediente": "173/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "173/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v012",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Moción consecuencia de interpelación urgente del Grupo Parlamentario Popular en el Congreso, sobre las gestiones, actuaciones y encomiendas del Ministro de la Presidencia, Justicia y Relaciones con las Cortes en relación con la amnistía, su intervención en los pactos con los partidos independentistas para mantener al Ejecutivo y su responsabilidad en el progresivo deterioro de las instituciones.",
+      "temas": "justicia",
+      "areas": [
+        "justicia-y-derechos-fundamentales"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Rechazada",
+      "si": 170,
+      "no": 176,
+      "abstencion": 0,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion012/VOT_20231219233129.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003",
+      "expediente": "173/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "173/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=173%2F000003"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v013",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Dictamen de la Comisión del Estatuto de los Diputados sobre declaración de actividades de Excmos. Sres. Diputados.",
+      "temas": "instituciones",
+      "areas": [
+        "constitución--instituciones-y-monarquía"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 341,
+      "no": 2,
+      "abstencion": 3,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion013/VOT_20231219233131.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "",
+      "expediente": "042/000002, 042/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "042/000002",
+        "042/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=042%2F000002",
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=042%2F000003"
+      ],
+      "expediente_estado": "MULTIPLE_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    },
+    {
+      "id": "s13-v014",
+      "legislatura": "XV",
+      "fecha": "2023-12-19",
+      "titulo": "Solicitud de los Grupos Parlamentarios Popular en el Congreso, Socialista y Plurinacional SUMAR, de creación de una Comisión Mixta sobre Insularidad.",
+      "temas": "otros",
+      "areas": [
+        "sin-clasificar"
+      ],
+      "area_origen": "etiquetas de Congreso Abierto, con clasificación por título cuando figura «otros»; provisional",
+      "tipo": "Votación del Pleno",
+      "resultado": "Aprobada",
+      "si": 313,
+      "no": 0,
+      "abstencion": 33,
+      "no_vota": 4,
+      "url_votacion": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion013/20231219/Votacion014/VOT_20231219233133.json",
+      "fuente": "Congreso Abierto (CSV; datos elaborados desde el Congreso)",
+      "calidad": "Registro del catálogo nominal del proveedor; no necesariamente la aprobación final de una ley.",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=155%2F000003",
+      "expediente": "155/000003",
+      "expediente_fuente": "HTML guardado de sesion del Congreso; URL JSON, recuentos y bloque de expediente cotejados; SHA-256 ecd9405425375c310edb06d8827525511f59d758af599f5fd0d27abf47a6955a",
+      "expedientes": [
+        "155/000003"
+      ],
+      "expedientes_urls": [
+        "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=155%2F000003"
+      ],
+      "expediente_estado": "UNICO_HTML",
+      "expediente_fuente_html": "2023-12-19.html",
+      "url_sesion_evidencia": "https://www.congreso.es/es/opendata/votaciones?targetLegislatura=XV&targetDate=19%2F12%2F2023"
+    }
+  ],
+  "grupos": [
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "Mixto",
+      "si": 0,
+      "no": 7,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "PP",
+      "si": 0,
+      "no": 137,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 121,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 26,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v002",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 0,
+      "abstencion": 5,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "PP",
+      "si": 137,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "PSOE",
+      "si": 121,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 26,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v003",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 0,
+      "abstencion": 33,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "Mixto",
+      "si": 1,
+      "no": 6,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "PP",
+      "si": 133,
+      "no": 4,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 121,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 26,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v004",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 0,
+      "abstencion": 7,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "Mixto",
+      "si": 8,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "PP",
+      "si": 137,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "PSOE",
+      "si": 121,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "SUMAR",
+      "si": 26,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v005",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "Mixto",
+      "si": 6,
+      "no": 1,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "PP",
+      "si": 0,
+      "no": 137,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "PSOE",
+      "si": 121,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "SUMAR",
+      "si": 26,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v006",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "Mixto",
+      "si": 6,
+      "no": 1,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "PP",
+      "si": 0,
+      "no": 137,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "PSOE",
+      "si": 121,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "SUMAR",
+      "si": 26,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v007",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "Mixto",
+      "si": 7,
+      "no": 1,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "PP",
+      "si": 0,
+      "no": 137,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "PSOE",
+      "si": 121,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "SUMAR",
+      "si": 26,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s11-v008",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "Mixto",
+      "si": 7,
+      "no": 1,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "PP",
+      "si": 0,
+      "no": 135,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "PSOE",
+      "si": 120,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "SUMAR",
+      "si": 25,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v001",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "Mixto",
+      "si": 7,
+      "no": 1,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "PP",
+      "si": 0,
+      "no": 135,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "PSOE",
+      "si": 120,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "SUMAR",
+      "si": 25,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v002",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 0,
+      "abstencion": 7,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "Mixto",
+      "si": 3,
+      "no": 0,
+      "abstencion": 5,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 0,
+      "abstencion": 4,
+      "no_vota": 1,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "PSOE",
+      "si": 120,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "SUMAR",
+      "si": 25,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v003",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 0,
+      "abstencion": 33,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "Mixto",
+      "si": 8,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 5,
+      "voto_mayoritario": "Sin voto consignado"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "PSOE",
+      "si": 120,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "SUMAR",
+      "si": 25,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v004",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 0,
+      "abstencion": 33,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "Mixto",
+      "si": 8,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 0,
+      "abstencion": 5,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 0,
+      "abstencion": 120,
+      "no_vota": 1,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "SUMAR",
+      "si": 24,
+      "no": 1,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v005",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 0,
+      "abstencion": 33,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "Mixto",
+      "si": 1,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 120,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 25,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v006",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 120,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 25,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v007",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "PSOE",
+      "si": 120,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 25,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v008",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 120,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 25,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v009",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 120,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 25,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v010",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 120,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 25,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v011",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 0,
+      "abstencion": 33,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 120,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 25,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v012",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "Mixto",
+      "si": 7,
+      "no": 0,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "PSOE",
+      "si": 116,
+      "no": 2,
+      "abstencion": 2,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "SUMAR",
+      "si": 25,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v013",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "Mixto",
+      "si": 8,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "PSOE",
+      "si": 120,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "SUMAR",
+      "si": 25,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s13-v014",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 0,
+      "abstencion": 33,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 1,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "PP",
+      "si": 0,
+      "no": 135,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "PSOE",
+      "si": 118,
+      "no": 0,
+      "abstencion": 1,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "SUMAR",
+      "si": 30,
+      "no": 0,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "Sin grupo",
+      "si": 1,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v001",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 1,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "PP",
+      "si": 0,
+      "no": 137,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "PSOE",
+      "si": 120,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "SUMAR",
+      "si": 31,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "Sin grupo",
+      "si": 1,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s2-v002",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "Mixto",
+      "si": 0,
+      "no": 2,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "PP",
+      "si": 0,
+      "no": 0,
+      "abstencion": 137,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 121,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 31,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v001",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 0,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "PP",
+      "si": 0,
+      "no": 0,
+      "abstencion": 137,
+      "no_vota": 0,
+      "voto_mayoritario": "Abstención"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "PSOE",
+      "si": 120,
+      "no": 0,
+      "abstencion": 1,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "SUMAR",
+      "si": 31,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v002",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "Mixto",
+      "si": 1,
+      "no": 2,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "PP",
+      "si": 136,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 121,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 31,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v003",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "Mixto",
+      "si": 2,
+      "no": 1,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "PP",
+      "si": 1,
+      "no": 136,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "PSOE",
+      "si": 121,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "SUMAR",
+      "si": 31,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s3-v004",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "Mixto",
+      "si": 3,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "PSOE",
+      "si": 119,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "SUMAR",
+      "si": 29,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v001",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 31,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "EH Bildu",
+      "si": 6,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "Mixto",
+      "si": 3,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "PP",
+      "si": 135,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "PSOE",
+      "si": 119,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "SUMAR",
+      "si": 30,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v002",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 31,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "EH Bildu",
+      "si": 0,
+      "no": 6,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "ERC",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "Junts",
+      "si": 0,
+      "no": 7,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "Mixto",
+      "si": 0,
+      "no": 3,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "PNV",
+      "si": 0,
+      "no": 5,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "PP",
+      "si": 0,
+      "no": 137,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "PSOE",
+      "si": 0,
+      "no": 120,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "SUMAR",
+      "si": 0,
+      "no": 29,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v003",
+      "grupo": "VOX",
+      "si": 33,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "EH Bildu",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "Mixto",
+      "si": 3,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "PP",
+      "si": 136,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "PSOE",
+      "si": 119,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "SUMAR",
+      "si": 29,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v004",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "EH Bildu",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "ERC",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "Junts",
+      "si": 7,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "Mixto",
+      "si": 3,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "PNV",
+      "si": 5,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "PP",
+      "si": 136,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 1,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "PSOE",
+      "si": 119,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "SUMAR",
+      "si": 29,
+      "no": 0,
+      "abstencion": 0,
+      "no_vota": 2,
+      "voto_mayoritario": "Sí"
+    },
+    {
+      "legislatura": "XV",
+      "votacion_id": "s9-v005",
+      "grupo": "VOX",
+      "si": 0,
+      "no": 33,
+      "abstencion": 0,
+      "no_vota": 0,
+      "voto_mayoritario": "No"
+    }
+  ],
+  "partidos": [],
+  "procedencia": "Congreso Abierto; CSV remitidos por el usuario; fuente original: datos del Congreso",
+  "nota": "Corte de catálogo nominal del proveedor, no inventario universal. Los grupos no siempre equivalen a partidos."
+}

@@ -1,0 +1,50 @@
+{
+  "version": "0.8.1",
+  "fecha": "2026-10-26",
+  "fuente_de_propuestas": {
+    "archivo": "expedientes_propuestos_v08.csv",
+    "sha256": "d38f51a756901d3360081f7b18a249bee005056580a2f76c4d6264336cd7cba4",
+    "sesiones": 139,
+    "filas": 2127
+  },
+  "cobertura": {
+    "total_votaciones_web": 2177,
+    "con_expediente_cotejado": 50,
+    "cotejadas_antes": 30,
+    "cotejadas_ahora": 20,
+    "propuestas_no_verificadas": 2127,
+    "propuestas_estandar": 2124,
+    "votos_conjuntos_posibles": 3,
+    "sin_candidato_ni_expediente": 0,
+    "numero_de_expedientes_distintos_propuestos": 652
+  },
+  "casos_no_exclusivos": [
+    "s40-v052",
+    "s40-v055",
+    "s40-v056"
+  ],
+  "ejemplos_de_error_del_parser": {
+    "s40-v052": {
+      "candidato": "110/000019",
+      "problema": "El listado oficial encadena cuatro acuerdos y una votacion. El título del CSV corresponde al convenio SKAO (110/000009); no es un voto exclusivo sobre 110/000019."
+    },
+    "s40-v055": {
+      "candidato": "110/000028",
+      "problema": "Varias iniciativas internacionales aparecen antes de la votación; la candidatura no prueba asignación exclusiva."
+    },
+    "s40-v056": {
+      "candidato": "110/000027",
+      "problema": "La votación puede comprender varios convenios; no debe atribuirse exclusivamente el último expediente."
+    }
+  },
+  "sesiones_cotejadas_ahora": {
+    "2024-11-28": "https://www.congreso.es/es/opendata/votaciones?targetDate=28%2F11%2F2024&targetLegislatura=XV",
+    "2026-03-24": "https://www.congreso.es/es/opendata/votaciones?targetDate=24%2F03%2F2026&targetLegislatura=XV"
+  },
+  "limitaciones": [
+    "El CSV de propuestas conserva URL JSON y totales pero no el HTML original que permita comprobar la vecindad textual exacta.",
+    "Los candidatos pueden ser no exclusivos si hay votaciones conjuntas de varias iniciativas.",
+    "Los 2127 candidatos permanecen fuera del campo expediente verificado y no se publican como confirmados.",
+    "Los 50 cotejos oficiales no resuelven las discrepancias nominales ni el partido historico de cada diputado."
+  ]
+}

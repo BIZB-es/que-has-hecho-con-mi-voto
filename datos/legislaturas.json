@@ -1,0 +1,118 @@
+{
+  "version": "0.3",
+  "fuente": "https://www.congreso.es/es/cem/historia",
+  "legislaturas": [
+    {
+      "id": "C",
+      "inicio": "1977-07-13",
+      "fin": "1979-01-02",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "I",
+      "inicio": "1979-03-23",
+      "fin": "1982-11-18",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "II",
+      "inicio": "1982-11-18",
+      "fin": "1986-04-23",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "III",
+      "inicio": "1986-07-15",
+      "fin": "1989-09-02",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "IV",
+      "inicio": "1989-11-21",
+      "fin": "1993-04-13",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "V",
+      "inicio": "1993-06-29",
+      "fin": "1996-01-09",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "VI",
+      "inicio": "1996-03-27",
+      "fin": "2000-01-18",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "VII",
+      "inicio": "2000-04-05",
+      "fin": "2004-01-20",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "VIII",
+      "inicio": "2004-04-02",
+      "fin": "2008-01-15",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "IX",
+      "inicio": "2008-04-01",
+      "fin": "2011-09-27",
+      "archivo": "historico_documental",
+      "detalle": "Archivo parlamentario histórico: incorporar documentos o datos transcritos y contrastados. No hay un paquete nominal estandarizado precargado para estas fechas."
+    },
+    {
+      "id": "X",
+      "inicio": "2011-12-13",
+      "fin": "2015-10-27",
+      "detalle": "Hay registros de votaciones nominales; documentación y clasificación histórica dependen de las fuentes disponibles.",
+      "archivo": "nominal_digital"
+    },
+    {
+      "id": "XI",
+      "inicio": "2016-01-13",
+      "fin": "2016-05-03",
+      "detalle": "Hay registros de votaciones nominales; documentación y clasificación histórica dependen de las fuentes disponibles.",
+      "archivo": "nominal_digital"
+    },
+    {
+      "id": "XII",
+      "inicio": "2016-07-19",
+      "fin": "2019-03-05",
+      "detalle": "Hay registros de votaciones nominales; documentación y clasificación histórica dependen de las fuentes disponibles.",
+      "archivo": "nominal_digital"
+    },
+    {
+      "id": "XIII",
+      "inicio": "2019-05-21",
+      "fin": "2019-09-24",
+      "detalle": "Hay registros de votaciones nominales; documentación y clasificación histórica dependen de las fuentes disponibles.",
+      "archivo": "nominal_digital"
+    },
+    {
+      "id": "XIV",
+      "inicio": "2019-12-03",
+      "fin": "2023-05-30",
+      "detalle": "Hay registros de votaciones nominales; documentación y clasificación histórica dependen de las fuentes disponibles.",
+      "archivo": "nominal_digital"
+    },
+    {
+      "id": "XV",
+      "inicio": "2023-08-17",
+      "fin": "2026-10-06",
+      "detalle": "El catálogo del Pleno disponible abarca desde 19/09/2023 hasta 30/09/2026, más casos por llamamiento del 02/10/2026.",
+      "archivo": "nominal_digital"
+    }
+  ]
+}

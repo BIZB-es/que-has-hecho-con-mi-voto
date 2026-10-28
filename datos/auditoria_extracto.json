@@ -1,0 +1,30 @@
+{
+  "version": "0.4",
+  "fecha_revision": "2026-10-26",
+  "estado": "EXTRACTO NO EXHAUSTIVO - pendiente de ingestiones masivas",
+  "ambito": "XV 2023-2026, exclusivamente registros ilustrativos transcritos del Congreso y dos llamamientos",
+  "votaciones_muestra": 46,
+  "desgloses_grupo_muestra": 8,
+  "votaciones_con_desglose_grupo": 1,
+  "num_partidos_con_desglose": 0,
+  "num_paquetes_historicos_precargados": 4,
+  "series_indicadores": 2,
+  "errores_integridad": [],
+  "advertencias": [
+    "La muestra NO constituye todos los registros XV. Titulos de extractos 2026 resumidos editorialmente.",
+    "Las ocho posiciones por grupo corresponden a una sola votacion. No representan las posiciones en las 46 votaciones.",
+    "No hay identidad temporal de diputados/candidaturas integrada: no se infieren votos de partidos.",
+    "El total publico 2175 corresponde al CSV de votos nominales de Congreso Abierto, no al inventario universal.",
+    "Existe un inventario alternativo con 2187 registros; falta reconciliar diferencias y no nominales.",
+    "Las series de vivienda son descriptivas y necesitan cotejo automatico del archivo primario antes de la publicacion definitiva.",
+    "El ano 2023 del indicador anual incluye meses antes y despues de la entrada en vigor en mayo."
+  ],
+  "fuentes": [
+    "https://www.congreso.es/es/opendata/votaciones",
+    "https://congresoabierto.org/datos/",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203",
+    "https://cdn.mivau.gob.es/portal-web-mivau/Datos_MIVAU/CSV/VDP005_01.csv",
+    "https://www.cje.org/observatorio-de-emancipacion/"
+  ],
+  "control_minimo_produccion": "Verificacion de todas las sesiones oficiales, identificadores nominales, recusaciones/llamamientos, expediente juridico, metadatos de representantes y version de series."
+}

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="España en datos, votaciones del Congreso y explicaciones documentadas. Indicadores públicos, fuentes y límites visibles.">
+<title>Qué has hecho con mi voto · España en datos y actividad parlamentaria</title>
+<link rel="stylesheet" href="assets/portal.css">
+</head><body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<header class="topbar"><div class="shell top-inner">
+ <a class="logo" href="index.html" aria-label="Portada del observatorio"><span class="logo-mark" aria-hidden="true">◉</span><span>QUÉ HAS HECHO<small>CON MI VOTO</small></span></a>
+ <nav aria-label="Navegación principal"><a class="active" href="index.html" aria-current="page">España en datos</a><a href="congreso.html">Qué han votado</a><a href="proyecto.html">Conoce el proyecto</a></nav>
+ </div></header>
+<main id="main">
+<section class="hero"><div class="shell hero-layout">
+ <div class="hero-copy"><div class="eyebrow"><span class="tiny-dot"></span> OBSERVATORIO CÍVICO · ESPAÑA</div>
+ <h1>Los datos de un país.<br><em>Las decisiones de sus representantes.</em></h1>
+ <p>Compara cómo evoluciona España, descubre qué se vota en el Congreso y accede a las fuentes que permiten comprobar las afirmaciones públicas. Sin necesitar conocimientos técnicos ni parlamentarios.</p>
+ <div class="hero-actions"><a href="#indicadores" class="button button-bright">Explorar los indicadores <span aria-hidden="true">↗</span></a><a href="congreso.html" class="button button-ghost">Consultar las votaciones</a></div>
+ <p class="hero-note"><strong>Versión candidata 1.00.</strong> Esta copia es una prepublicación: algunas categorías siguen en construcción y cada gráfico indica la fecha de sus datos.</p>
+ </div>
+ <aside class="hero-aside" aria-label="Cifras destacadas con periodos de referencia">
+   <div class="mini-eyebrow">UN PAÍS, DISTINTOS INDICADORES</div>
+   <div class="hero-stat"><div><span>PIB real</span><strong>+2,6 %</strong></div><small>2025 · variación anual</small></div>
+   <div class="hero-stat"><div><span>Desempleo EPA</span><strong>10,18 %</strong></div><small>3.º trimestre de 2026</small></div>
+   <div class="hero-stat"><div><span>Riesgo de pobreza</span><strong>19,5 %</strong></div><small>ECV 2025 · definición relativa</small></div>
+   <div class="hero-stat"><div><span>Ingreso medio por persona</span><strong>15.620 €</strong></div><small>Renta de 2024 · ECV</small></div>
+   <div class="aside-footer">Las fechas y las poblaciones de referencia no son necesariamente iguales. <a href="proyecto.html#metodo">Cómo leer los datos</a></div>
+ </aside>
+ </div></section>
+
+<section class="data-section shell" id="indicadores" aria-labelledby="ind-title">
+ <div class="section-header"><div><span class="overline">01 / ESPAÑA EN DATOS</span><h2 id="ind-title">¿Qué está pasando en España?</h2><p>Selecciona un tema. Cada gráfico muestra su unidad, período, fuente y límites. Los datos se guardan con la web; no dependen de una consulta en tiempo real.</p></div>
+  <div class="view-switch" role="group" aria-label="Nivel de detalle"><button type="button" id="simpleMode" class="selected" aria-pressed="true">Sencillo</button><button type="button" id="advancedMode" aria-pressed="false">Avanzado</button></div>
+ </div>
+ <div class="control-panel"><div class="chip-list" role="group" aria-label="Filtrar materias">
+   <button type="button" class="chip is-on" data-group="all" aria-pressed="true">Todos</button>
+   <button type="button" class="chip" data-group="economia" aria-pressed="false">Economía e ingresos</button>
+   <button type="button" class="chip" data-group="empleo" aria-pressed="false">Empleo y salarios</button>
+   <button type="button" class="chip" data-group="bienestar" aria-pressed="false">Pobreza</button>
+   <button type="button" class="chip" data-group="vivienda" aria-pressed="false">Vivienda</button>
+   <button type="button" class="chip" data-group="empresas" aria-pressed="false">Empresas</button>
+   <button type="button" class="chip" data-group="sectorpublico" aria-pressed="false">Ayudas públicas</button>
+  </div>
+  <div class="control-search"><label for="searchMetric">Encontrar indicador</label><input id="searchMetric" type="search" placeholder="Ej. alquiler, pobreza, salarios" autocomplete="off"></div>
+ </div>
+ <p class="coverage-note" role="note"><span aria-hidden="true">ⓘ</span> No todas las series alcanzan 2026. Para pobreza extrema y reparto de ayudas seguimos seleccionando una definición y una fuente homogéneas; esas lagunas estarán indicadas, no rellenadas con cifras estimadas presentadas como oficiales.</p>
+ <div id="metricGrid" class="metric-grid" aria-live="polite"></div>
+ <p id="emptyMetrics" class="empty" hidden>No hay indicadores que coincidan con la búsqueda. Prueba con otro tema.</p>
+ <div class="bottom-disclosure"><strong>¿Por qué unas cifras tienen más años que otras?</strong> Cada operación estadística tiene su propia periodicidad, población de referencia y revisiones. Puedes consultar la metodología y el archivo de fuentes en <a href="proyecto.html#fuentes">Conoce el proyecto</a>.</div>
+</section>
+
+<section class="parliament-section" id="votaciones"><div class="shell parliament-layout">
+ <div class="parliament-copy"><span class="overline light">02 / LA ACTIVIDAD PARLAMENTARIA</span><h2>De los resultados<br><em>a las decisiones.</em></h2><p>La información económica y social es el contexto. La segunda parte del portal te permite investigar las decisiones del Congreso: qué se sometió a votación, quién votó, con qué resultado y qué documentación respalda cada registro.</p>
+  <a class="button button-bright" href="congreso.html">Entrar en «Qué han votado» <span aria-hidden="true">↗</span></a>
+ </div>
+ <div class="parliament-features"><div><strong>2.177</strong><span>votaciones en nuestro catálogo de la XV Legislatura</span></div><div><strong>2.206</strong><span>relaciones documentadas entre votaciones y expedientes</span></div><div><strong>412</strong><span>personas incluidas en el censo parlamentario XV</span></div><p>Estos recuentos describen <b>el archivo disponible</b>, no la totalidad de votaciones de todas las legislaturas. Las diferencias entre votos nominales y totales quedan advertidas en cada ficha.</p></div>
+ </div>
+ <div class="shell quick-links"><a href="congreso.html">Votaciones <span>↗</span></a><a href="diputados.html">Diputados <span>↗</span></a><a href="argumentos.html">Argumentos <span>↗</span></a><a href="ley-vivienda.html">Resultados de las leyes <span>↗</span></a><a href="calidad.html">Calidad de datos <span>↗</span></a></div>
+</section>
+
+<section class="about-section shell" id="proyecto"><span class="overline">03 / CÓMO SE HA CONSTRUIDO</span><div class="about-layout"><div><h2>Una web abierta.<br><em>También en lo que aún no sabemos.</em></h2><p>Explicamos de dónde vienen las cifras, qué procesos hemos automatizado, cómo revisamos las afirmaciones y cuáles son los límites de nuestra cobertura. Sin esconder los registros incompletos.</p><a class="button button-ink" href="proyecto.html">Conocer el proceso y el estado de la web <span aria-hidden="true">↗</span></a></div><div class="about-steps"><div><span>01</span><div><strong>Localizamos fuentes públicas</strong><small>INE, Congreso, BOE, Hacienda y estadísticas sectoriales.</small></div></div><div><span>02</span><div><strong>Conservamos los datos y sus fechas</strong><small>Nunca mezclamos porcentajes, recuentos o definiciones distintas.</small></div></div><div><span>03</span><div><strong>Mostramos cómo comprobarlo</strong><small>Cada resultado tiene fuente, método y grado de cobertura.</small></div></div><div><span>04</span><div><strong>Documentamos lo pendiente</strong><small>La versión 1.00 nace para crecer y admitir correcciones.</small></div></div></div></div></section>
+</main>
+<footer><div class="shell footer-layout"><div><a class="logo" href="index.html"><span class="logo-mark" aria-hidden="true">◉</span><span>QUÉ HAS HECHO<small>CON MI VOTO</small></span></a><p>Información pública, fuentes visibles y metodología revisable.</p></div><div><strong>Explora</strong><a href="index.html">España en datos</a><a href="congreso.html">Votaciones</a><a href="proyecto.html">Estado y metodología</a></div><div><strong>Transparencia</strong><a href="calidad.html">Auditoría parlamentaria</a><a href="proyecto.html#fuentes">Fuentes estadísticas</a><a href="proyecto.html#limitaciones">Límites y correcciones</a></div></div><div class="shell footnote">Versión candidata 1.00 · 29 de octubre de 2026 · Aún no desplegada públicamente. Fuentes y condiciones de reutilización identificadas en cada módulo.</div></footer>
+<script src="assets/indicadores_espana_v1.js"></script><script src="assets/portal.js"></script>
+</body></html>

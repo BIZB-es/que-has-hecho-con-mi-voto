@@ -1,0 +1,620 @@
+{
+  "version": "0.3",
+  "nota": "Categorías temáticas transversales, no denominaciones de ministerios. Etiquetado automático orientativo, no exhaustivo; permite varias categorías y revisión humana.",
+  "areas": [
+    {
+      "id": "administración-pública-y-función-pública",
+      "nombre": "Administración pública y función pública",
+      "familia": "Democracia e instituciones",
+      "palabras": [
+        "funcion publica",
+        "administraciones publicas",
+        "empleados publicos",
+        "funcionarios",
+        "interinos",
+        "oposiciones",
+        "administracion general"
+      ]
+    },
+    {
+      "id": "constitución--instituciones-y-monarquía",
+      "nombre": "Constitución, instituciones y monarquía",
+      "familia": "Democracia e instituciones",
+      "palabras": [
+        "constitucion",
+        "constitucional",
+        "casa real",
+        "monarquia",
+        "jefatura del estado",
+        "reforma del reglamento",
+        "reglamento del congreso"
+      ]
+    },
+    {
+      "id": "democracia--elecciones-y-participación",
+      "nombre": "Democracia, elecciones y participación",
+      "familia": "Democracia e instituciones",
+      "palabras": [
+        "electoral",
+        "elecciones",
+        "referendum",
+        "consulta popular",
+        "participacion ciudadana",
+        "partidos politicos",
+        "circunscripcion",
+        "democracia"
+      ]
+    },
+    {
+      "id": "transparencia--integridad-y-corrupción",
+      "nombre": "Transparencia, integridad y corrupción",
+      "familia": "Democracia e instituciones",
+      "palabras": [
+        "transparencia",
+        "corrupcion",
+        "conflictos de intereses",
+        "puertas giratorias",
+        "buen gobierno",
+        "etica publica",
+        "lobbies"
+      ]
+    },
+    {
+      "id": "organización-territorial-y-autonomías",
+      "nombre": "Organización territorial y autonomías",
+      "familia": "Democracia e instituciones",
+      "palabras": [
+        "comunidades autonomas",
+        "estatuto de autonomia",
+        "transferencia de competencias",
+        "municipios",
+        "diputaciones",
+        "financiacion autonomica",
+        "ayuntamientos",
+        "provincias",
+        "entidades locales"
+      ]
+    },
+    {
+      "id": "justicia-y-derechos-fundamentales",
+      "nombre": "Justicia y derechos fundamentales",
+      "familia": "Democracia e instituciones",
+      "palabras": [
+        "poder judicial",
+        "justicia",
+        "tribunales",
+        "jueces",
+        "fiscalia",
+        "derecho de defensa",
+        "codigo penal",
+        "indulto",
+        "amnistia",
+        "derechos fundamentales",
+        "derechos civiles"
+      ]
+    },
+    {
+      "id": "interior-y-seguridad-ciudadana",
+      "nombre": "Interior y seguridad ciudadana",
+      "familia": "Democracia e instituciones",
+      "palabras": [
+        "seguridad ciudadana",
+        "fuerzas y cuerpos de seguridad",
+        "policia",
+        "guardia civil",
+        "delincuencia",
+        "prisiones",
+        "instituciones penitenciarias",
+        "terrorismo"
+      ]
+    },
+    {
+      "id": "protección-de-datos-y-privacidad",
+      "nombre": "Protección de datos y privacidad",
+      "familia": "Democracia e instituciones",
+      "palabras": [
+        "proteccion de datos",
+        "datos personales",
+        "privacidad",
+        "derecho al olvido",
+        "rgpd",
+        "loml?",
+        "vigilancia digital"
+      ]
+    },
+    {
+      "id": "trabajo--empleo-y-relaciones-laborales",
+      "nombre": "Trabajo, empleo y relaciones laborales",
+      "familia": "Economía y empleo",
+      "palabras": [
+        "empleo",
+        "jornada laboral",
+        "trabajo",
+        "salario minimo",
+        "despido",
+        "negociacion colectiva",
+        "relaciones laborales",
+        "desempleo",
+        "paro",
+        "convenio colectivo",
+        "huelga",
+        "contratacion laboral"
+      ]
+    },
+    {
+      "id": "pensiones-y-seguridad-social",
+      "nombre": "Pensiones y Seguridad Social",
+      "familia": "Economía y empleo",
+      "palabras": [
+        "pensiones",
+        "jubilacion",
+        "seguridad social",
+        "cotizaciones",
+        "viudedad",
+        "pension",
+        "subsidio mayores",
+        "prestaciones contributivas"
+      ]
+    },
+    {
+      "id": "hacienda-e-impuestos",
+      "nombre": "Hacienda e impuestos",
+      "familia": "Economía y empleo",
+      "palabras": [
+        "fiscal",
+        "impuesto",
+        "tribut",
+        "irpf",
+        "iva",
+        "hacienda",
+        "recaudacion",
+        "incentivos fiscales",
+        "fraude fiscal",
+        "tasas"
+      ]
+    },
+    {
+      "id": "presupuestos-y-deuda-pública",
+      "nombre": "Presupuestos y deuda pública",
+      "familia": "Economía y empleo",
+      "palabras": [
+        "presupuestos generales",
+        "estabilidad presupuestaria",
+        "deficit publico",
+        "deuda publica",
+        "gasto publico",
+        "reglas fiscales",
+        "techo de gasto"
+      ]
+    },
+    {
+      "id": "economía--empresas-y-competencia",
+      "nombre": "Economía, empresas y competencia",
+      "familia": "Economía y empleo",
+      "palabras": [
+        "economia",
+        "empresa",
+        "pymes",
+        "autonomos",
+        "competencia",
+        "mercados",
+        "consumo",
+        "comercio",
+        "precios",
+        "inflacion",
+        "banca",
+        "mercado financiero"
+      ]
+    },
+    {
+      "id": "industria--minería-y-producción",
+      "nombre": "Industria, minería y producción",
+      "familia": "Economía y empleo",
+      "palabras": [
+        "industria",
+        "industrial",
+        "mineria",
+        "minero",
+        "fabricacion",
+        "produccion industrial",
+        "cadena de valor",
+        "sector manufacturero"
+      ]
+    },
+    {
+      "id": "turismo-y-hostelería",
+      "nombre": "Turismo y hostelería",
+      "familia": "Economía y empleo",
+      "palabras": [
+        "turismo",
+        "hotel",
+        "turistico",
+        "hosteleria",
+        "alojamientos turisticos"
+      ]
+    },
+    {
+      "id": "vivienda-y-urbanismo",
+      "nombre": "Vivienda y urbanismo",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "vivienda",
+        "alquiler",
+        "arrendamiento",
+        "hipoteca",
+        "urbanismo",
+        "suelo residencial",
+        "desahucios",
+        "inquilinos",
+        "precio de la vivienda"
+      ]
+    },
+    {
+      "id": "sanidad-y-salud-pública",
+      "nombre": "Sanidad y salud pública",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "sanidad",
+        "salud",
+        "hospital",
+        "medicamentos",
+        "atencion primaria",
+        "enfermedad",
+        "vacunacion",
+        "farmacia",
+        "sistema nacional de salud"
+      ]
+    },
+    {
+      "id": "educación-no-universitaria",
+      "nombre": "Educación no universitaria",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "educacion",
+        "escuelas",
+        "colegios",
+        "institutos",
+        "docentes",
+        "profesores",
+        "formacion profesional",
+        "fp dual",
+        "ensenanza"
+      ]
+    },
+    {
+      "id": "universidades-e-investigación",
+      "nombre": "Universidades e investigación",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "universidad",
+        "universidades",
+        "investigacion",
+        "ciencia",
+        "cientific",
+        "transferencia tecnologica",
+        "becas universitarias"
+      ]
+    },
+    {
+      "id": "cultura--artes-y-patrimonio",
+      "nombre": "Cultura, artes y patrimonio",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "cultura",
+        "cultural",
+        "cine",
+        "museo",
+        "patrimonio historico",
+        "bibliotecas",
+        "artes escenicas",
+        "libros",
+        "propiedad intelectual"
+      ]
+    },
+    {
+      "id": "igualdad--feminismo-y-violencia-de-género",
+      "nombre": "Igualdad, feminismo y violencia de género",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "igualdad",
+        "violencia de genero",
+        "violencia vicaria",
+        "feminismo",
+        "violencia machista",
+        "brecha salarial",
+        "discriminacion por sexo"
+      ]
+    },
+    {
+      "id": "infancia--juventud-y-familias",
+      "nombre": "Infancia, juventud y familias",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "infancia",
+        "menores",
+        "ninos",
+        "juventud",
+        "familias",
+        "natalidad",
+        "proteccion del menor",
+        "crianza",
+        "conciliacion familiar"
+      ]
+    },
+    {
+      "id": "servicios-sociales--pobreza-y-dependencia",
+      "nombre": "Servicios sociales, pobreza y dependencia",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "pobreza",
+        "exclusion social",
+        "renta minima",
+        "ingreso minimo vital",
+        "servicios sociales",
+        "dependencia",
+        "cuidados",
+        "sin hogar",
+        "vulnerabilidad"
+      ]
+    },
+    {
+      "id": "discapacidad-y-accesibilidad",
+      "nombre": "Discapacidad y accesibilidad",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "discapacidad",
+        "accesibilidad",
+        "barreras arquitectonicas",
+        "personas con discapacidad",
+        "diversidad funcional"
+      ]
+    },
+    {
+      "id": "derechos-lgtbi-y-diversidad",
+      "nombre": "Derechos LGTBI y diversidad",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "lgtbi",
+        "lgbti",
+        "transexualidad",
+        "transgenero",
+        "identidad de genero",
+        "orientacion sexual"
+      ]
+    },
+    {
+      "id": "deporte-y-actividad-física",
+      "nombre": "Deporte y actividad física",
+      "familia": "Personas y servicios públicos",
+      "palabras": [
+        "deporte",
+        "deportiva",
+        "federaciones deportivas",
+        "olimpiadas",
+        "actividad fisica"
+      ]
+    },
+    {
+      "id": "transporte--tráfico-y-movilidad",
+      "nombre": "Transporte, tráfico y movilidad",
+      "familia": "Territorio, recursos y movilidad",
+      "palabras": [
+        "transporte",
+        "ferrocarril",
+        "tren",
+        "aeropuerto",
+        "aviacion",
+        "movilidad",
+        "carretera",
+        "trafico",
+        "autobus",
+        "autopista",
+        "puertos",
+        "taxi",
+        "vehiculos"
+      ]
+    },
+    {
+      "id": "infraestructuras-y-obra-pública",
+      "nombre": "Infraestructuras y obra pública",
+      "familia": "Territorio, recursos y movilidad",
+      "palabras": [
+        "infraestructuras",
+        "obra publica",
+        "obras publicas",
+        "red vial",
+        "carreteras",
+        "infraestructura hidraulica",
+        "tunel",
+        "puente",
+        "red ferroviaria"
+      ]
+    },
+    {
+      "id": "energía-y-transición-energética",
+      "nombre": "Energía y transición energética",
+      "familia": "Territorio, recursos y movilidad",
+      "palabras": [
+        "energia",
+        "energetico",
+        "electricidad",
+        "renovables",
+        "hidrogeno",
+        "nuclear",
+        "gas natural",
+        "petroleo",
+        "precio de la luz",
+        "mercado electrico"
+      ]
+    },
+    {
+      "id": "medio-ambiente-y-cambio-climático",
+      "nombre": "Medio ambiente y cambio climático",
+      "familia": "Territorio, recursos y movilidad",
+      "palabras": [
+        "medio ambiente",
+        "biodiversidad",
+        "cambio climatico",
+        "emisiones",
+        "contaminacion",
+        "espacios protegidos",
+        "conservacion ambiental",
+        "residuos",
+        "reciclaje"
+      ]
+    },
+    {
+      "id": "agricultura--ganadería-y-pesca",
+      "nombre": "Agricultura, ganadería y pesca",
+      "familia": "Territorio, recursos y movilidad",
+      "palabras": [
+        "agricultura",
+        "ganaderia",
+        "pesca",
+        "agricola",
+        "agrario",
+        "campesino",
+        "sector primario",
+        "pac",
+        "regadios",
+        "forestal"
+      ]
+    },
+    {
+      "id": "agua-y-gestión-hídrica",
+      "nombre": "Agua y gestión hídrica",
+      "familia": "Territorio, recursos y movilidad",
+      "palabras": [
+        "sequia",
+        "agua potable",
+        "trasvase",
+        "recursos hidricos",
+        "acuiferos",
+        "embalses",
+        "politica hidrologica"
+      ]
+    },
+    {
+      "id": "medio-rural-y-reto-demográfico",
+      "nombre": "Medio rural y reto demográfico",
+      "familia": "Territorio, recursos y movilidad",
+      "palabras": [
+        "despoblacion",
+        "medio rural",
+        "rural",
+        "reto demografico",
+        "cohesion territorial",
+        "pueblos"
+      ]
+    },
+    {
+      "id": "protección-de-animales",
+      "nombre": "Protección de animales",
+      "familia": "Territorio, recursos y movilidad",
+      "palabras": [
+        "bienestar animal",
+        "proteccion animal",
+        "maltrato animal",
+        "especies de compania"
+      ]
+    },
+    {
+      "id": "digitalización--inteligencia-artificial-y-tecnologías",
+      "nombre": "Digitalización, inteligencia artificial y tecnologías",
+      "familia": "Tecnología, comunicación y mundo",
+      "palabras": [
+        "inteligencia artificial",
+        "digitalizacion",
+        "algoritmos",
+        "ciberseguridad",
+        "nuevas tecnologias",
+        "automatizacion",
+        "tecnologia"
+      ]
+    },
+    {
+      "id": "telecomunicaciones-y-medios-de-comunicación",
+      "nombre": "Telecomunicaciones y medios de comunicación",
+      "familia": "Tecnología, comunicación y mundo",
+      "palabras": [
+        "telecomunicacion",
+        "internet",
+        "telefonia",
+        "medios de comunicacion",
+        "television",
+        "radio",
+        "plataformas digitales",
+        "publicidad"
+      ]
+    },
+    {
+      "id": "migración--extranjería-y-asilo",
+      "nombre": "Migración, extranjería y asilo",
+      "familia": "Tecnología, comunicación y mundo",
+      "palabras": [
+        "inmigracion",
+        "migracion",
+        "extranjeria",
+        "asilo",
+        "refugiados",
+        "fronteras",
+        "nacionalidad",
+        "regularizacion de extranjeros"
+      ]
+    },
+    {
+      "id": "relaciones-internacionales-y-cooperación",
+      "nombre": "Relaciones internacionales y cooperación",
+      "familia": "Tecnología, comunicación y mundo",
+      "palabras": [
+        "politica exterior",
+        "relaciones internacionales",
+        "onu",
+        "union europea",
+        "ue",
+        "cooperacion internacional",
+        "tratado internacional",
+        "convenio internacional",
+        "acuerdo internacional",
+        "embajadas",
+        "diplomacia"
+      ]
+    },
+    {
+      "id": "defensa-y-fuerzas-armadas",
+      "nombre": "Defensa y Fuerzas Armadas",
+      "familia": "Tecnología, comunicación y mundo",
+      "palabras": [
+        "defensa",
+        "ejercito",
+        "fuerzas armadas",
+        "militar",
+        "otan",
+        "seguridad nacional",
+        "armamento",
+        "operaciones militares"
+      ]
+    },
+    {
+      "id": "tramitación-y-organización-parlamentaria",
+      "nombre": "Tramitación y organización parlamentaria",
+      "familia": "Procedimiento parlamentario",
+      "palabras": [
+        "declaracion de actividades",
+        "estatuto del diputado",
+        "comision parlamentaria",
+        "prorroga del plazo",
+        "tramitacion parlamentaria",
+        "avocacion",
+        "reglamento de la camara",
+        "mesa del congreso"
+      ]
+    },
+    {
+      "id": "sin-clasificar",
+      "nombre": "Sin clasificar / pendiente de revisión",
+      "familia": "Control de calidad",
+      "palabras": []
+    }
+  ]
+}

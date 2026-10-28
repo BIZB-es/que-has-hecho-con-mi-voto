@@ -1,0 +1,69 @@
+{
+  "legislatura": "XV",
+  "sesion": 203,
+  "fecha": "2026-10-02",
+  "fuentes": [
+    "https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codOrgano=400&codSesion=203&fechaSesion=02%2F10%2F2026&i=779883&idLegislaturaElegida=15&mp4=mp4"
+  ],
+  "registros": [
+    {
+      "id": "s203-ll001",
+      "legislatura": "XV",
+      "fecha": "2026-10-02",
+      "sesion": "203",
+      "numero": "1",
+      "tipo": "Convalidación o derogación de real decreto-ley (votación por llamamiento)",
+      "titulo": "Convalidación del Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible.",
+      "temas": "vivienda",
+      "areas": [
+        "vivienda-y-urbanismo"
+      ],
+      "area_origen": "revisión editorial según título oficial",
+      "resultado": "Derogado",
+      "si": 172,
+      "no": 178,
+      "abstencion": 0,
+      "no_vota": 0,
+      "expediente": "130/000055",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000055",
+      "url_votacion": "https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codOrgano=400&codSesion=203&fechaSesion=02%2F10%2F2026&i=779883&idLegislaturaElegida=15&mp4=mp4",
+      "expediente_fuente": "Orden del día audiovisual del Congreso, sesión 203 del 02/10/2026",
+      "fuente": "Congreso (sesión audiovisual y BOE); recuento: crónica de El Debate de 02/10/2026",
+      "calidad": "Votación por llamamiento fuera de los CSV nominales; no se dispone del desglose de votos por persona o grupo en los archivos recibidos.",
+      "resumen": "El Pleno rechazó convalidar el Real Decreto-ley 26/2026; la resolución de derogación se publicó en el BOE.",
+      "fuente_normativa": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20526",
+      "fuente_recuento": "https://www.eldebate.com/espana/20261002/asi-han-votado-partidos-decretos-vivienda-quien-apoyado-quien-tumbado-cada-texto-cns_465496_amp.html",
+      "metadatos_enlaces": "Votación por llamamiento; votación con resultado confirmado por BOE y votación en audiovisual oficial; cifra por crónica periodística"
+    },
+    {
+      "id": "s203-ll002",
+      "legislatura": "XV",
+      "fecha": "2026-10-02",
+      "sesion": "203",
+      "numero": "2",
+      "tipo": "Convalidación o derogación de real decreto-ley (votación por llamamiento)",
+      "titulo": "Convalidación del Real Decreto-ley 27/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual.",
+      "temas": "vivienda",
+      "areas": [
+        "vivienda-y-urbanismo"
+      ],
+      "area_origen": "revisión editorial según título oficial",
+      "resultado": "Derogado",
+      "si": 166,
+      "no": 184,
+      "abstencion": 0,
+      "no_vota": 0,
+      "expediente": "130/000056",
+      "url_expediente": "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000056",
+      "url_votacion": "https://app.congreso.es/AudiovisualCongreso/audiovisualdetalledisponible?codOrgano=400&codSesion=203&fechaSesion=02%2F10%2F2026&i=779883&idLegislaturaElegida=15&mp4=mp4",
+      "expediente_fuente": "Orden del día audiovisual del Congreso, sesión 203 del 02/10/2026",
+      "fuente": "Congreso (sesión audiovisual y BOE); recuento: crónica de El Debate de 02/10/2026",
+      "calidad": "Votación por llamamiento fuera de los CSV nominales; no se dispone del desglose de votos por persona o grupo en los archivos recibidos.",
+      "resumen": "El Pleno rechazó convalidar el Real Decreto-ley 27/2026; la resolución de derogación se publicó en el BOE.",
+      "fuente_normativa": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20527",
+      "fuente_recuento": "https://www.eldebate.com/espana/20261002/asi-han-votado-partidos-decretos-vivienda-quien-apoyado-quien-tumbado-cada-texto-cns_465496_amp.html",
+      "metadatos_enlaces": "Votación por llamamiento; votación con resultado confirmado por BOE y votación en audiovisual oficial; cifra por crónica periodística"
+    }
+  ],
+  "nota": "No hay CSV nominal adjunto; no deben inferirse grupos ni diputados."
+}

@@ -1,0 +1,1028 @@
+{
+  "version": "0.6",
+  "filas": 726564,
+  "votaciones_con_nombres": 2173,
+  "personas_identificadas_por_nombre": 350,
+  "sesiones": [
+    {
+      "sesion": "s2",
+      "archivo": "datos/nominales/s2.js",
+      "votaciones": 2,
+      "filas": 584,
+      "sha256": "f6aa326ab9916496a2f0c09c43b2aa1a9393da3ddfd473982ed70f1431079c7d"
+    },
+    {
+      "sesion": "s3",
+      "archivo": "datos/nominales/s3.js",
+      "votaciones": 4,
+      "filas": 1168,
+      "sha256": "50eedc9f41955141511d52ed5a684718a998f632a4b85ee1eaba8eab9466788b"
+    },
+    {
+      "sesion": "s9",
+      "archivo": "datos/nominales/s9.js",
+      "votaciones": 5,
+      "filas": 1470,
+      "sha256": "091703a4a847fe781ca3c3f69fddb535a226df868258c1f6d6730b7136eeec31"
+    },
+    {
+      "sesion": "s11",
+      "archivo": "datos/nominales/s11.js",
+      "votaciones": 7,
+      "filas": 2121,
+      "sha256": "ba0ef238cf4472b86825ce97e77330885547d46de07949a84892ed2ad0146f11"
+    },
+    {
+      "sesion": "s13",
+      "archivo": "datos/nominales/s13.js",
+      "votaciones": 14,
+      "filas": 4270,
+      "sha256": "5da3ef387b525af4a3caad610af5d39b94b8c68bb2fc84c24dedd972d68cde9e"
+    },
+    {
+      "sesion": "s15",
+      "archivo": "datos/nominales/s15.js",
+      "votaciones": 8,
+      "filas": 2456,
+      "sha256": "7768b80899967d348e260a70cfbb4930b6557169bd5e01863a02dcedb6e944c2"
+    },
+    {
+      "sesion": "s16",
+      "archivo": "datos/nominales/s16.js",
+      "votaciones": 2,
+      "filas": 618,
+      "sha256": "c6e3a98727035bf60f3f676f1cc374f9e8c83e391fd13816c89da89760f05b17"
+    },
+    {
+      "sesion": "s18",
+      "archivo": "datos/nominales/s18.js",
+      "votaciones": 9,
+      "filas": 2808,
+      "sha256": "73ed20bb02ab4fc0fcfacb434526639b6d1ff179454b66dccda8b5a638a88ee1"
+    },
+    {
+      "sesion": "s19",
+      "archivo": "datos/nominales/s19.js",
+      "votaciones": 7,
+      "filas": 2191,
+      "sha256": "78fc03477b7cefb9d18dce095c2f54899ef7d6feb3f6820a9d508ef2b6116638"
+    },
+    {
+      "sesion": "s21",
+      "archivo": "datos/nominales/s21.js",
+      "votaciones": 2,
+      "filas": 628,
+      "sha256": "64aa47e0c6ea49549f3c32dae7a8e079436227a09dd5b99555635e6f76902d3e"
+    },
+    {
+      "sesion": "s23",
+      "archivo": "datos/nominales/s23.js",
+      "votaciones": 18,
+      "filas": 5652,
+      "sha256": "cbe64bf3c0238972d41d58834ca95296af9d3f508e14a51058fb6db4446ce8fc"
+    },
+    {
+      "sesion": "s24",
+      "archivo": "datos/nominales/s24.js",
+      "votaciones": 2,
+      "filas": 628,
+      "sha256": "858d2110c414b35ffbd3df0fc8be2cebb5550869df2cf245b24c481191d2e98a"
+    },
+    {
+      "sesion": "s26",
+      "archivo": "datos/nominales/s26.js",
+      "votaciones": 19,
+      "filas": 5966,
+      "sha256": "909585f19390d214ce82f9fb6ac154be919bc6896cc5403410d7702414677698"
+    },
+    {
+      "sesion": "s27",
+      "archivo": "datos/nominales/s27.js",
+      "votaciones": 2,
+      "filas": 630,
+      "sha256": "c444a931182a8d5c5900053194ddf63dbd3fd76da5cd2fb3d2e4f341a2a4f09a"
+    },
+    {
+      "sesion": "s29",
+      "archivo": "datos/nominales/s29.js",
+      "votaciones": 52,
+      "filas": 16380,
+      "sha256": "e18eb5736988eed9c3b08e6932a2b39d93ac6e0210baaa86a2eaf72a5179d03f"
+    },
+    {
+      "sesion": "s30",
+      "archivo": "datos/nominales/s30.js",
+      "votaciones": 1,
+      "filas": 315,
+      "sha256": "339a2e127e24d963505eaf47602e4c6c8c4e799d1351776960809092c7380c8c"
+    },
+    {
+      "sesion": "s31",
+      "archivo": "datos/nominales/s31.js",
+      "votaciones": 2,
+      "filas": 632,
+      "sha256": "8f611dcc148b50dbf4593c1ca591445243644675a8b4822eeb48ee7ede0cc13e"
+    },
+    {
+      "sesion": "s33",
+      "archivo": "datos/nominales/s33.js",
+      "votaciones": 19,
+      "filas": 6004,
+      "sha256": "66da89294fb40c3d4da12910f898a2179bd3b32e059202f599aa09a6ba87d913"
+    },
+    {
+      "sesion": "s34",
+      "archivo": "datos/nominales/s34.js",
+      "votaciones": 19,
+      "filas": 6004,
+      "sha256": "904c088882387f15cf0496b22c5abee251ae00060504a0b08828848e616a6b6b"
+    },
+    {
+      "sesion": "s36",
+      "archivo": "datos/nominales/s36.js",
+      "votaciones": 38,
+      "filas": 12046,
+      "sha256": "b3aa6d6c13839448b9d0e42f2736bf6e0e2bf3db411caceaa5324025610d7cc4"
+    },
+    {
+      "sesion": "s38",
+      "archivo": "datos/nominales/s38.js",
+      "votaciones": 2,
+      "filas": 634,
+      "sha256": "1f7f25c40159e45ea14934c4233313934ebbe765881ea180552849262d6663e9"
+    },
+    {
+      "sesion": "s40",
+      "archivo": "datos/nominales/s40.js",
+      "votaciones": 61,
+      "filas": 19337,
+      "sha256": "bc95266346d166d0fc9eacde27013cedfe7c6c2ebc6d7894650a5186bace0ec7"
+    },
+    {
+      "sesion": "s41",
+      "archivo": "datos/nominales/s41.js",
+      "votaciones": 2,
+      "filas": 634,
+      "sha256": "f37f149903057a448ccfe1367746e55901629340a168a64aa68990d5a822d6cb"
+    },
+    {
+      "sesion": "s43",
+      "archivo": "datos/nominales/s43.js",
+      "votaciones": 36,
+      "filas": 11412,
+      "sha256": "156696f51ccb08d808dbaa52e563b2398fc0e102aa7b13577915e1e67c06151b"
+    },
+    {
+      "sesion": "s44",
+      "archivo": "datos/nominales/s44.js",
+      "votaciones": 2,
+      "filas": 640,
+      "sha256": "2cd26dc9482a17dd43bd655f587e259a8dce4828a03dc0c9ae68de7f343d8809"
+    },
+    {
+      "sesion": "s46",
+      "archivo": "datos/nominales/s46.js",
+      "votaciones": 25,
+      "filas": 8000,
+      "sha256": "66abd2d70305ad6140c3250917a6f30658e5751b1062ffae9dff119c1c76b437"
+    },
+    {
+      "sesion": "s47",
+      "archivo": "datos/nominales/s47.js",
+      "votaciones": 2,
+      "filas": 640,
+      "sha256": "a7324eee541e1e3e2552107fd3a31208d13a594a896546187b2dc53d9cfecb6a"
+    },
+    {
+      "sesion": "s49",
+      "archivo": "datos/nominales/s49.js",
+      "votaciones": 25,
+      "filas": 8000,
+      "sha256": "e7591808402e01245056c0748d0873298b55a71560d64a38ba40b04638521806"
+    },
+    {
+      "sesion": "s50",
+      "archivo": "datos/nominales/s50.js",
+      "votaciones": 2,
+      "filas": 642,
+      "sha256": "c278b7f25168da9491a042bec117df405d38531c20f5b1b306e011053bfe76ed"
+    },
+    {
+      "sesion": "s52",
+      "archivo": "datos/nominales/s52.js",
+      "votaciones": 46,
+      "filas": 14766,
+      "sha256": "0662a8440fa419c71b66f2340daf60c43e5fe05f79ab8a52d727241c5f1919f1"
+    },
+    {
+      "sesion": "s53",
+      "archivo": "datos/nominales/s53.js",
+      "votaciones": 1,
+      "filas": 322,
+      "sha256": "fbdb7906ee37c25ce7302c2d97af18d04a9a5d409668eac7ab8b6511689ccc47"
+    },
+    {
+      "sesion": "s54",
+      "archivo": "datos/nominales/s54.js",
+      "votaciones": 13,
+      "filas": 4186,
+      "sha256": "78ceade14141ae6d10934de121d160c557ca083847ea4e142d7ef9e4f7c54e77"
+    },
+    {
+      "sesion": "s56",
+      "archivo": "datos/nominales/s56.js",
+      "votaciones": 77,
+      "filas": 24871,
+      "sha256": "ae7b984c776436221fb3e2d64dab7d4f7995163bdd396677a64ab8f4cc1f436e"
+    },
+    {
+      "sesion": "s57",
+      "archivo": "datos/nominales/s57.js",
+      "votaciones": 3,
+      "filas": 978,
+      "sha256": "3ff86e90843cbc92fa98d56e047d80e4f2129df87ed5e95ed039557f8950e340"
+    },
+    {
+      "sesion": "s58",
+      "archivo": "datos/nominales/s58.js",
+      "votaciones": 11,
+      "filas": 3586,
+      "sha256": "dd1a57cc5034dc994f139cc13589872e6d2f61e1dbcbc23e2899087e2ac948ab"
+    },
+    {
+      "sesion": "s59",
+      "archivo": "datos/nominales/s59.js",
+      "votaciones": 3,
+      "filas": 984,
+      "sha256": "7c6568f4c3b0338c8280d37ec5685cf644701111d310e96cc1ea6ea1d5e3aaab"
+    },
+    {
+      "sesion": "s60",
+      "archivo": "datos/nominales/s60.js",
+      "votaciones": 7,
+      "filas": 2296,
+      "sha256": "14edccfe93513ae98d93be494c4581626dc61a5e60eb10063a204cd1b0285737"
+    },
+    {
+      "sesion": "s61",
+      "archivo": "datos/nominales/s61.js",
+      "votaciones": 2,
+      "filas": 656,
+      "sha256": "212cc65f22bce1a05c6289b23817c1255697958a49a40c964aec3ba03115d1f3"
+    },
+    {
+      "sesion": "s63",
+      "archivo": "datos/nominales/s63.js",
+      "votaciones": 9,
+      "filas": 2952,
+      "sha256": "65887893015da8a7867e0ced9ca9fe935800522dded9bdd9372c6dd22c14d701"
+    },
+    {
+      "sesion": "s64",
+      "archivo": "datos/nominales/s64.js",
+      "votaciones": 2,
+      "filas": 658,
+      "sha256": "f4000a8cf1fca8613d3fa7351e770db31c45f018ee552a0d7ffcb2dc5209fb62"
+    },
+    {
+      "sesion": "s66",
+      "archivo": "datos/nominales/s66.js",
+      "votaciones": 20,
+      "filas": 6580,
+      "sha256": "0dea8985d717359ee3bd52574ea78342ef15dfa59c0b0e70c1423c3ad26051c8"
+    },
+    {
+      "sesion": "s67",
+      "archivo": "datos/nominales/s67.js",
+      "votaciones": 3,
+      "filas": 987,
+      "sha256": "968bb839fe71ba20757e11e565b44f9aabc0271c756beac32cdeb5d655253ef5"
+    },
+    {
+      "sesion": "s68",
+      "archivo": "datos/nominales/s68.js",
+      "votaciones": 14,
+      "filas": 4606,
+      "sha256": "b35087248136060652dcf79f7253d6172ce4bd2f228d7ea044f6aa3201c77a1b"
+    },
+    {
+      "sesion": "s69",
+      "archivo": "datos/nominales/s69.js",
+      "votaciones": 3,
+      "filas": 987,
+      "sha256": "9ab23c20d20608e2db10f116e73cdc1f6c5a5c3382f90f2236acf7bbb35616e3"
+    },
+    {
+      "sesion": "s70",
+      "archivo": "datos/nominales/s70.js",
+      "votaciones": 31,
+      "filas": 10199,
+      "sha256": "f9503fa2fa88d1043ee68051bb8749384a001cc09916dcdd7a1207d37b6a6ef4"
+    },
+    {
+      "sesion": "s71",
+      "archivo": "datos/nominales/s71.js",
+      "votaciones": 2,
+      "filas": 660,
+      "sha256": "dada68311a54577458b28a7ebcb9ed8f11b7c334447d88f0ce2260c7470d0c88"
+    },
+    {
+      "sesion": "s73",
+      "archivo": "datos/nominales/s73.js",
+      "votaciones": 2,
+      "filas": 660,
+      "sha256": "fbfed7dc47dcaf72001c0c9b5c349fcbe2a2058960dc1d24508c10755f83859b"
+    },
+    {
+      "sesion": "s74",
+      "archivo": "datos/nominales/s74.js",
+      "votaciones": 1,
+      "filas": 330,
+      "sha256": "90f159c7d9f5693d5f70b0f46981d579a8236b1564fb6b9a92309a045161b477"
+    },
+    {
+      "sesion": "s76",
+      "archivo": "datos/nominales/s76.js",
+      "votaciones": 44,
+      "filas": 14520,
+      "sha256": "966cf1793741a5a49d8c14da920b0e8ee08f1d34a8cd76269a1fb0f8bad00fb2"
+    },
+    {
+      "sesion": "s77",
+      "archivo": "datos/nominales/s77.js",
+      "votaciones": 2,
+      "filas": 660,
+      "sha256": "5f07f53a2d85e1559f718527a90b37a75e97eb2976595dcd9a57bcf1b39a57ad"
+    },
+    {
+      "sesion": "s79",
+      "archivo": "datos/nominales/s79.js",
+      "votaciones": 65,
+      "filas": 21450,
+      "sha256": "0fbea510c6d55802bb4fce65150b72d25954cd55b6a9622084f42648fa1077c7"
+    },
+    {
+      "sesion": "s80",
+      "archivo": "datos/nominales/s80.js",
+      "votaciones": 1,
+      "filas": 330,
+      "sha256": "1bfa086f9d2842950139c959abaed74f7ed1afa44e478bc8f8b97599cee854fd"
+    },
+    {
+      "sesion": "s82",
+      "archivo": "datos/nominales/s82.js",
+      "votaciones": 18,
+      "filas": 5940,
+      "sha256": "112acdc244bf97627f6174591532ea88ee8bb43b69d7ad2b4593b8c54b1ffb62"
+    },
+    {
+      "sesion": "s83",
+      "archivo": "datos/nominales/s83.js",
+      "votaciones": 2,
+      "filas": 662,
+      "sha256": "6c71e1a655cf3e0cb7bc472291de2455ad4d7171df8cff2424367260aca0b3aa"
+    },
+    {
+      "sesion": "s85",
+      "archivo": "datos/nominales/s85.js",
+      "votaciones": 14,
+      "filas": 4634,
+      "sha256": "eb05a44126ecd7690d555bb89b5e6721e53241fe2a2215413e71df998b947a49"
+    },
+    {
+      "sesion": "s86",
+      "archivo": "datos/nominales/s86.js",
+      "votaciones": 1,
+      "filas": 332,
+      "sha256": "a65bc2fd2ad64dbd7498c5fb936cf0abf5cf116796551f3bab267c2e43adfde7"
+    },
+    {
+      "sesion": "s88",
+      "archivo": "datos/nominales/s88.js",
+      "votaciones": 107,
+      "filas": 35524,
+      "sha256": "ddc37d43e934e9fc12add7538781d96a8e38d03e4773a377f4510a812e3645ea"
+    },
+    {
+      "sesion": "s89",
+      "archivo": "datos/nominales/s89.js",
+      "votaciones": 4,
+      "filas": 1328,
+      "sha256": "12e363182deaa48be34fec6890ffc69bc96b278704c06a4cb93666c4345da4aa"
+    },
+    {
+      "sesion": "s90",
+      "archivo": "datos/nominales/s90.js",
+      "votaciones": 2,
+      "filas": 668,
+      "sha256": "975e01342fde81dc5263bc4853ecbbc2dc1cfd4b8f79dcb5b427c023313536ab"
+    },
+    {
+      "sesion": "s91",
+      "archivo": "datos/nominales/s91.js",
+      "votaciones": 18,
+      "filas": 6012,
+      "sha256": "7222356509ba6672df3eec4fedbb6eb495fe0653c29b3c500fccfe26f1b3e702"
+    },
+    {
+      "sesion": "s92",
+      "archivo": "datos/nominales/s92.js",
+      "votaciones": 2,
+      "filas": 670,
+      "sha256": "1cd17361dba33ece6dc33ce217953908f4437001b6ead645f39f49a9de508beb"
+    },
+    {
+      "sesion": "s93",
+      "archivo": "datos/nominales/s93.js",
+      "votaciones": 15,
+      "filas": 5025,
+      "sha256": "83451a45949a3081cdac2f362fe5b48d6c36adbf11f62a1cf66d68e25342f3c4"
+    },
+    {
+      "sesion": "s94",
+      "archivo": "datos/nominales/s94.js",
+      "votaciones": 2,
+      "filas": 670,
+      "sha256": "415102e2db82de67d544009b7d17a08363a57a99ed6c358c26603fd599bdc713"
+    },
+    {
+      "sesion": "s95",
+      "archivo": "datos/nominales/s95.js",
+      "votaciones": 22,
+      "filas": 7370,
+      "sha256": "e935c57d01273f310f13c42003ff006aa307d4970a5063b2a6b8184c54423c98"
+    },
+    {
+      "sesion": "s96",
+      "archivo": "datos/nominales/s96.js",
+      "votaciones": 2,
+      "filas": 670,
+      "sha256": "1f1dee0c5beb7fbaff04bfc817e3b457fe1e227cf1f7007fd883059f62db4466"
+    },
+    {
+      "sesion": "s98",
+      "archivo": "datos/nominales/s98.js",
+      "votaciones": 21,
+      "filas": 7035,
+      "sha256": "45f23e00385344ce1c4e4f700d0dc49b2aad75f64b5e2f487b2b257ea4977f33"
+    },
+    {
+      "sesion": "s99",
+      "archivo": "datos/nominales/s99.js",
+      "votaciones": 2,
+      "filas": 670,
+      "sha256": "aa7a8852106eab289dada2a35a9dec358e29e1b0a0b3cb25736da1660754b547"
+    },
+    {
+      "sesion": "s101",
+      "archivo": "datos/nominales/s101.js",
+      "votaciones": 65,
+      "filas": 21775,
+      "sha256": "6eab0027c8dce1f7050398bb43e8650a5f3cf6c19c27e10c2768d98f722537b7"
+    },
+    {
+      "sesion": "s102",
+      "archivo": "datos/nominales/s102.js",
+      "votaciones": 3,
+      "filas": 1005,
+      "sha256": "2c0729c824197c3779b4462e25947b79b8a8d6db5c760742bdf5f6206e6a8786"
+    },
+    {
+      "sesion": "s103",
+      "archivo": "datos/nominales/s103.js",
+      "votaciones": 13,
+      "filas": 4355,
+      "sha256": "f982cec772241f8f627234d0caa1ed193d866ab5be24ea1c2f52730da1b7c322"
+    },
+    {
+      "sesion": "s104",
+      "archivo": "datos/nominales/s104.js",
+      "votaciones": 3,
+      "filas": 1008,
+      "sha256": "36e1525805c02182c3cf9a37571107e387d5ddb8933c9461a4e3288b1c349b85"
+    },
+    {
+      "sesion": "s106",
+      "archivo": "datos/nominales/s106.js",
+      "votaciones": 21,
+      "filas": 7056,
+      "sha256": "25a2f1ea943b7ee3ceb5d1887a546ad615cb8f51a381e045e83f5e318a1cd23d"
+    },
+    {
+      "sesion": "s107",
+      "archivo": "datos/nominales/s107.js",
+      "votaciones": 3,
+      "filas": 1008,
+      "sha256": "e626dcb1fa50cf1c0bcd99181ef3f4aa6d0204fced42171a28fa1cbb18826c53"
+    },
+    {
+      "sesion": "s109",
+      "archivo": "datos/nominales/s109.js",
+      "votaciones": 18,
+      "filas": 6048,
+      "sha256": "4ebfa2df76150838dae77423b543caf262f68b5c59474906f8b54ad7d9f78feb"
+    },
+    {
+      "sesion": "s110",
+      "archivo": "datos/nominales/s110.js",
+      "votaciones": 2,
+      "filas": 672,
+      "sha256": "cf25c515935145b2cdf9e2f741c2eadd7c3887ee0380a9349b1e069a30672e1a"
+    },
+    {
+      "sesion": "s111",
+      "archivo": "datos/nominales/s111.js",
+      "votaciones": 12,
+      "filas": 4032,
+      "sha256": "1d0b1f0de28ccdf77176bfce4f6476226c37f7a4a71e05906da77fdec503395d"
+    },
+    {
+      "sesion": "s112",
+      "archivo": "datos/nominales/s112.js",
+      "votaciones": 9,
+      "filas": 3024,
+      "sha256": "a023a4b43240a9fe005e3eb2fd55a6c5e9a17b566a775816c208347023ca55a8"
+    },
+    {
+      "sesion": "s114",
+      "archivo": "datos/nominales/s114.js",
+      "votaciones": 2,
+      "filas": 672,
+      "sha256": "0a0a310dc71a22f1266a7814219361376af1f3eb6e9a65674f28dda6333d43ba"
+    },
+    {
+      "sesion": "s115",
+      "archivo": "datos/nominales/s115.js",
+      "votaciones": 8,
+      "filas": 2688,
+      "sha256": "240bbcea1ca3e18baff0a85dc0ddab55a13fad699ef0258a7c793fe3778f4069"
+    },
+    {
+      "sesion": "s116",
+      "archivo": "datos/nominales/s116.js",
+      "votaciones": 2,
+      "filas": 674,
+      "sha256": "4f7a65881accb92e97d399743ae08515055c18f75160757c2b6c44c94c1bc1cf"
+    },
+    {
+      "sesion": "s118",
+      "archivo": "datos/nominales/s118.js",
+      "votaciones": 18,
+      "filas": 6066,
+      "sha256": "b5fdd09e6e47afad445d3cbeb6828081dc17d8deac0c00a091bb74852f878ca5"
+    },
+    {
+      "sesion": "s119",
+      "archivo": "datos/nominales/s119.js",
+      "votaciones": 2,
+      "filas": 674,
+      "sha256": "e6a9d5078a7f9247e00e47b4a489239b8aae74f3f7c255ed0af1249d3cc05bb2"
+    },
+    {
+      "sesion": "s121",
+      "archivo": "datos/nominales/s121.js",
+      "votaciones": 10,
+      "filas": 3380,
+      "sha256": "840fd8bf6c07ca792227922e45ca06f24100a6b1cd8f540af583572702590a97"
+    },
+    {
+      "sesion": "s122",
+      "archivo": "datos/nominales/s122.js",
+      "votaciones": 3,
+      "filas": 1014,
+      "sha256": "804ff0de916813a204f3377fd12e5c4b63b1b79e65c8b9274132b3d703c6936d"
+    },
+    {
+      "sesion": "s124",
+      "archivo": "datos/nominales/s124.js",
+      "votaciones": 19,
+      "filas": 6422,
+      "sha256": "7d77bc820ec18c43640a4ac076c1af586b5c48c8e3d6be244e3d7df69420fb4a"
+    },
+    {
+      "sesion": "s125",
+      "archivo": "datos/nominales/s125.js",
+      "votaciones": 2,
+      "filas": 676,
+      "sha256": "98dfa4e665613fa2f7133c175fe18a197846dfa26d56178b875c8370e3f488b1"
+    },
+    {
+      "sesion": "s128",
+      "archivo": "datos/nominales/s128.js",
+      "votaciones": 19,
+      "filas": 6441,
+      "sha256": "efb5824354a78000374c0f2dd7ec65b3d4337f339dd1236b9979b7caa967f888"
+    },
+    {
+      "sesion": "s129",
+      "archivo": "datos/nominales/s129.js",
+      "votaciones": 4,
+      "filas": 1368,
+      "sha256": "5e736cbdf141e5ebfea80f6ef4d658f6eb6cd4274cc2989e97a348a14fab8155"
+    },
+    {
+      "sesion": "s130",
+      "archivo": "datos/nominales/s130.js",
+      "votaciones": 11,
+      "filas": 3762,
+      "sha256": "87e34116429db9fa452c41991687689b9cd1331f76bd2a82f48b5f2dd38c7cf9"
+    },
+    {
+      "sesion": "s131",
+      "archivo": "datos/nominales/s131.js",
+      "votaciones": 2,
+      "filas": 684,
+      "sha256": "96f8353ce301ac837faca422e8a3989e73e8c07c9abe5eaedc7366339ff422f6"
+    },
+    {
+      "sesion": "s132",
+      "archivo": "datos/nominales/s132.js",
+      "votaciones": 27,
+      "filas": 9234,
+      "sha256": "ef0295dbde315ce4d43ce03547353a09e98f8aa367538e0dfd9dc54472b26878"
+    },
+    {
+      "sesion": "s133",
+      "archivo": "datos/nominales/s133.js",
+      "votaciones": 2,
+      "filas": 684,
+      "sha256": "d7f5fc667bb5db84fa44b7f9391284e7e6e3be6b0b94b3c8baee513ccea5b3f9"
+    },
+    {
+      "sesion": "s134",
+      "archivo": "datos/nominales/s134.js",
+      "votaciones": 10,
+      "filas": 3420,
+      "sha256": "b230eb816498d4827db41cbad844b790ef9f0234e1bc7b737dff6f1dd2665132"
+    },
+    {
+      "sesion": "s135",
+      "archivo": "datos/nominales/s135.js",
+      "votaciones": 1,
+      "filas": 342,
+      "sha256": "b065080dd7f7c8b2c5b12929277840f1dcccdc3695ba0f1160a40a8c076cb025"
+    },
+    {
+      "sesion": "s136",
+      "archivo": "datos/nominales/s136.js",
+      "votaciones": 117,
+      "filas": 40014,
+      "sha256": "dbf014329b29fad1c3dcdd1fb9887840538373ca71ac662b3ed5db8debea260c"
+    },
+    {
+      "sesion": "s137",
+      "archivo": "datos/nominales/s137.js",
+      "votaciones": 2,
+      "filas": 684,
+      "sha256": "e0234c5088214029e16b3341063768e932eae907e51ef95c84c4f7b46d56611d"
+    },
+    {
+      "sesion": "s139",
+      "archivo": "datos/nominales/s139.js",
+      "votaciones": 20,
+      "filas": 6840,
+      "sha256": "182422748e89ea20556696c426d612ecd10f8acee8249704621696f8ca4ed9cc"
+    },
+    {
+      "sesion": "s140",
+      "archivo": "datos/nominales/s140.js",
+      "votaciones": 2,
+      "filas": 684,
+      "sha256": "211ca2ea65dfe61765a26054ccd995968fe9eae443f94a94174928a47c1b6bb1"
+    },
+    {
+      "sesion": "s141",
+      "archivo": "datos/nominales/s141.js",
+      "votaciones": 14,
+      "filas": 4788,
+      "sha256": "7ca52e8ea210558d006e3d5b04124363fc874855104dcec18febfc957b8f1000"
+    },
+    {
+      "sesion": "s142",
+      "archivo": "datos/nominales/s142.js",
+      "votaciones": 25,
+      "filas": 8550,
+      "sha256": "52d35a416b5286413bc386d63ba7bb7b280db7c6d7f454ab9b1c595cd7911b46"
+    },
+    {
+      "sesion": "s144",
+      "archivo": "datos/nominales/s144.js",
+      "votaciones": 2,
+      "filas": 684,
+      "sha256": "fbb6a47b4175cf502e82678ae8c3d95904c2a7af9161d44b3cb06f29f73060d3"
+    },
+    {
+      "sesion": "s146",
+      "archivo": "datos/nominales/s146.js",
+      "votaciones": 115,
+      "filas": 39330,
+      "sha256": "4ea1de94fe1850e69411c7a18fb72c087ed49b14a823cdef330f431642ce38c1"
+    },
+    {
+      "sesion": "s147",
+      "archivo": "datos/nominales/s147.js",
+      "votaciones": 2,
+      "filas": 684,
+      "sha256": "5903a6cb1f0dd5f6a9a95b8546895713610301b4172d7b56a9692be9f72a66f6"
+    },
+    {
+      "sesion": "s148",
+      "archivo": "datos/nominales/s148.js",
+      "votaciones": 7,
+      "filas": 2394,
+      "sha256": "fb427a84152cc698721d441c5db7a542217be841cd1ba75e4fed9cc8c1729903"
+    },
+    {
+      "sesion": "s151",
+      "archivo": "datos/nominales/s151.js",
+      "votaciones": 18,
+      "filas": 6156,
+      "sha256": "db62079b14cdaf5acae14fce51b44754b95f15727c8406c78c6407710ec05fc4"
+    },
+    {
+      "sesion": "s152",
+      "archivo": "datos/nominales/s152.js",
+      "votaciones": 3,
+      "filas": 1026,
+      "sha256": "7b2681583f72ecfbb2be7adebed9102ee89154bccfa843c327a7e38ec87d539f"
+    },
+    {
+      "sesion": "s154",
+      "archivo": "datos/nominales/s154.js",
+      "votaciones": 31,
+      "filas": 10633,
+      "sha256": "e82f6dee56a38e29e568b23a26d4d680e42851b3ab1d4c4dbd949d3de44332e0"
+    },
+    {
+      "sesion": "s156",
+      "archivo": "datos/nominales/s156.js",
+      "votaciones": 3,
+      "filas": 1032,
+      "sha256": "819b75117cdfabf109da019b1e310af5568ecdb64255dba2f47bf6849b774064"
+    },
+    {
+      "sesion": "s157",
+      "archivo": "datos/nominales/s157.js",
+      "votaciones": 2,
+      "filas": 692,
+      "sha256": "bb3aa8b84fff4ac1333fc0e82b8017050da5c680726f6b03696bc36e688a62d3"
+    },
+    {
+      "sesion": "s159",
+      "archivo": "datos/nominales/s159.js",
+      "votaciones": 25,
+      "filas": 8650,
+      "sha256": "f9e72953d28f2758e71b2acef769330378941c4b9950f8aa9b37f423918a1ded"
+    },
+    {
+      "sesion": "s160",
+      "archivo": "datos/nominales/s160.js",
+      "votaciones": 2,
+      "filas": 692,
+      "sha256": "37690b1006937bdf0ef1e312221047f2e0cc1650008f8e74014f3f999cd39462"
+    },
+    {
+      "sesion": "s161",
+      "archivo": "datos/nominales/s161.js",
+      "votaciones": 12,
+      "filas": 4152,
+      "sha256": "3fa82773f07bf59150cb85c44f4b4d5d817b4e32cc50af58586f6433a64e038f"
+    },
+    {
+      "sesion": "s162",
+      "archivo": "datos/nominales/s162.js",
+      "votaciones": 2,
+      "filas": 692,
+      "sha256": "3698d0572702d916d00956e4b249f6eb4c2a3b3f3c0c27360cafdb56ec697312"
+    },
+    {
+      "sesion": "s164",
+      "archivo": "datos/nominales/s164.js",
+      "votaciones": 27,
+      "filas": 9342,
+      "sha256": "ffaf9df97de06741c57b79dd8dabb2ca74c7724e96e02226d0fb186be2c47f6f"
+    },
+    {
+      "sesion": "s165",
+      "archivo": "datos/nominales/s165.js",
+      "votaciones": 2,
+      "filas": 692,
+      "sha256": "e1da90ddfec5b0868325096d40107944de91a7d920e92806a9a6aaee6330edcb"
+    },
+    {
+      "sesion": "s166",
+      "archivo": "datos/nominales/s166.js",
+      "votaciones": 10,
+      "filas": 3460,
+      "sha256": "76c5f8491ae277f01730d8230ffcf3080cf2ff6faa5e6a6e57496f84e95ffe22"
+    },
+    {
+      "sesion": "s167",
+      "archivo": "datos/nominales/s167.js",
+      "votaciones": 2,
+      "filas": 692,
+      "sha256": "5853be9971f00ef2f10103732d70aab2a99bd5140072b644aee8e2c91c1c1313"
+    },
+    {
+      "sesion": "s169",
+      "archivo": "datos/nominales/s169.js",
+      "votaciones": 65,
+      "filas": 22490,
+      "sha256": "1cd888b2c7a1f4fe13c1acc590f8952d0c4ab5b9b7ff9bfa45eb4931c9dc6948"
+    },
+    {
+      "sesion": "s170",
+      "archivo": "datos/nominales/s170.js",
+      "votaciones": 2,
+      "filas": 692,
+      "sha256": "33816c230fc64bc153e7b974ec9a166b145f0b4b322297b3ba5b3188ff1e1e9f"
+    },
+    {
+      "sesion": "s171",
+      "archivo": "datos/nominales/s171.js",
+      "votaciones": 2,
+      "filas": 692,
+      "sha256": "5c2c51555a1604f2e5b9d67d89fc7fb9cf4e6e36beaf42bb5e2cc2dcc76a8f13"
+    },
+    {
+      "sesion": "s172",
+      "archivo": "datos/nominales/s172.js",
+      "votaciones": 18,
+      "filas": 6228,
+      "sha256": "72a76c127d229322fa9d840429ae05a027f166d8e393ec2ce2a04f84987d284b"
+    },
+    {
+      "sesion": "s173",
+      "archivo": "datos/nominales/s173.js",
+      "votaciones": 1,
+      "filas": 346,
+      "sha256": "f6e09eb890c38877f8f1929252e8fb1e2f317f22f717420b32cbf098d3b44b12"
+    },
+    {
+      "sesion": "s174",
+      "archivo": "datos/nominales/s174.js",
+      "votaciones": 17,
+      "filas": 5882,
+      "sha256": "66785ddcd3c08f5e9ef59b54f199b97bd565266032cefc651f47837ad0dd8ee4"
+    },
+    {
+      "sesion": "s175",
+      "archivo": "datos/nominales/s175.js",
+      "votaciones": 2,
+      "filas": 692,
+      "sha256": "5db60dacac2ff1345271e33b6bab70ef6045ac2989eb6ceb7730aead34780e33"
+    },
+    {
+      "sesion": "s177",
+      "archivo": "datos/nominales/s177.js",
+      "votaciones": 12,
+      "filas": 4152,
+      "sha256": "e1eba134d2e031dedd234aec0a45759053f43c360a96746db66c684e095e1088"
+    },
+    {
+      "sesion": "s179",
+      "archivo": "datos/nominales/s179.js",
+      "votaciones": 1,
+      "filas": 346,
+      "sha256": "d38891432d48b1f667c21b3497455f5e5a349a4d0cfe4cde3155d2878e28afd9"
+    },
+    {
+      "sesion": "s180",
+      "archivo": "datos/nominales/s180.js",
+      "votaciones": 12,
+      "filas": 4152,
+      "sha256": "6129c3ae9732042b4a847d050f98828d6d5781ed706d76363439548bd4aab874"
+    },
+    {
+      "sesion": "s181",
+      "archivo": "datos/nominales/s181.js",
+      "votaciones": 3,
+      "filas": 1038,
+      "sha256": "cd99a8bfa85233bbbef1fee2b3bee9256474341f0477c6f43bc36da62760d6f6"
+    },
+    {
+      "sesion": "s183",
+      "archivo": "datos/nominales/s183.js",
+      "votaciones": 16,
+      "filas": 5536,
+      "sha256": "0f9e6f0448a6ad1c4ee9449dd388ac94de0757778e98d4987af5d71df2c8f315"
+    },
+    {
+      "sesion": "s185",
+      "archivo": "datos/nominales/s185.js",
+      "votaciones": 42,
+      "filas": 14616,
+      "sha256": "ad302ca3754adb5a54bb89758d87a3ed00119938416f00818aadace7725ea05b"
+    },
+    {
+      "sesion": "s186",
+      "archivo": "datos/nominales/s186.js",
+      "votaciones": 2,
+      "filas": 696,
+      "sha256": "e0f7536b82c79e3d42ca39d5b9cbbe60ea42a49c473ad8d2b311bb28994fb57b"
+    },
+    {
+      "sesion": "s188",
+      "archivo": "datos/nominales/s188.js",
+      "votaciones": 27,
+      "filas": 9396,
+      "sha256": "0c35a13545ccef9c4ed9613842b798f3862d045609a132d61608fb846c7f5bf1"
+    },
+    {
+      "sesion": "s189",
+      "archivo": "datos/nominales/s189.js",
+      "votaciones": 2,
+      "filas": 696,
+      "sha256": "42d5ea21d43d906ef11bfa8189fa8f16e3274b2b0f8b52864f565aafa714c4d3"
+    },
+    {
+      "sesion": "s191",
+      "archivo": "datos/nominales/s191.js",
+      "votaciones": 30,
+      "filas": 10440,
+      "sha256": "64f7e8f2f337c41293d459b3320640af60251d90af2806788677f712e68e1940"
+    },
+    {
+      "sesion": "s192",
+      "archivo": "datos/nominales/s192.js",
+      "votaciones": 56,
+      "filas": 19488,
+      "sha256": "114976ec44d6e7fd80b2fbeb124ece6b4bc916cc676af42534c73ab923367a80"
+    },
+    {
+      "sesion": "s193",
+      "archivo": "datos/nominales/s193.js",
+      "votaciones": 20,
+      "filas": 6960,
+      "sha256": "f799fd1b653692eb29ae483b55dfb371bcd475f196ee49afe207e9f1992fbcc3"
+    },
+    {
+      "sesion": "s195",
+      "archivo": "datos/nominales/s195.js",
+      "votaciones": 2,
+      "filas": 698,
+      "sha256": "281241520ebf7698d869e899b2d1b77241f0b4db633e0f0c8558ff2c06fc2d64"
+    },
+    {
+      "sesion": "s196",
+      "archivo": "datos/nominales/s196.js",
+      "votaciones": 21,
+      "filas": 7329,
+      "sha256": "3ac541235638fea789dedb931e5ff751cf29d6a63ddb1a402daea9aab997856b"
+    },
+    {
+      "sesion": "s197",
+      "archivo": "datos/nominales/s197.js",
+      "votaciones": 1,
+      "filas": 350,
+      "sha256": "f1c6b3ceea1b8887e1907a8ff046c21a37be275bdb71a6c67177af32ab65505e"
+    },
+    {
+      "sesion": "s198",
+      "archivo": "datos/nominales/s198.js",
+      "votaciones": 58,
+      "filas": 20300,
+      "sha256": "8c93b612d28d4abeb214a3933ad7c1a4eeab00c0307d10807253ae12f478f789"
+    },
+    {
+      "sesion": "s199",
+      "archivo": "datos/nominales/s199.js",
+      "votaciones": 2,
+      "filas": 700,
+      "sha256": "35392f9a336318984260d00b70f92d7e59f7d499dd238a57a12ce4eafe28bfa6"
+    },
+    {
+      "sesion": "s200",
+      "archivo": "datos/nominales/s200.js",
+      "votaciones": 11,
+      "filas": 3850,
+      "sha256": "93207ad60c62ac32ee394113b4d9fcf7f8b263db887fc0176ed506510688b554"
+    },
+    {
+      "sesion": "s201",
+      "archivo": "datos/nominales/s201.js",
+      "votaciones": 2,
+      "filas": 700,
+      "sha256": "b68a5ce82f0464d99a5ee0e446a5073c4f09a4149e2f9047ce2e8f3c0f3908c1"
+    },
+    {
+      "sesion": "s202",
+      "archivo": "datos/nominales/s202.js",
+      "votaciones": 20,
+      "filas": 7000,
+      "sha256": "c98e2c70947316f83ae7b62fc189d20c3c48be0be7792634ca07469188f22ac2"
+    },
+    {
+      "sesion": "especiales",
+      "archivo": "datos/nominales/especiales.js",
+      "votaciones": 7,
+      "filas": 2408,
+      "sha256": "dad6105ddf0b4a2d597f4fd1737548a78da6bd61fdc4ab48c76a12a78a6e9fcc"
+    }
+  ],
+  "excluidos": [
+    "s202-v021",
+    "s89-v005"
+  ],
+  "nota": "Conserva cada registro individual tal como consta en el CSV. No rellena ausentes, no atribuye partidos."
+}

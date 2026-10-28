@@ -1,0 +1,22 @@
+﻿clave,fuente_url,fecha_consulta,nota
+PIB,https://ine.es/consul/serie.do?d=true&s=CNE16232,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+PIB_VARIACION,https://ine.es/dyngs/Prensa/CNA2025.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+INGRESOS,https://ine.es/dyngs/Prensa/ECV2025.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+INGRESOS2024,https://ine.es/dyngs/Prensa/ECV2024.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+EPA,https://www.ine.es/prensa/epa_tabla.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+EPA3,https://ine.es/dyngs/Prensa/EPA3T26.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+POBREZA,https://ine.es/dyngs/Prensa/ECV2025.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+POBLACION,https://ine.es/htdocs/prensa/ecp_tabla.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+VIVIENDA,https://bdsice.mineco.gob.es/indeco/reports/verSerieGraf_limpio.aspx/?codigo=449990&frec=-1,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+ALQUILER2023,https://www3.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpfvivienda/2023/jrubikfd568028ab18e1fafc3590ffd1be3049dcba32dc.html,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+ALQUILER2024,https://www3.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpfvivienda/2024/jrubikf53b07ce4916495be456684ec99760a9e5f321e9c.html,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+EMPRESAS,https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/sociedadest2/2023/jrubikcdb249755d85be006d2455181004fdca681dae1.html,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+SAL2022,https://www.ine.es/prensa/eacl_2022.pdf,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+SAL2023,https://www.ine.es/dyngs/Prensa/EACL2023.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+SAL2024,https://www.ine.es/dyngs/Prensa/EACL2024.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+SAL2025,https://www.ine.es/dyngs/Prensa/EACL2025.htm,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+IPC,https://ine.es/consul/serie.do?c=2&d=true&s=IPC278296,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+BDNS,https://www.pap.hacienda.gob.es/bdnstrans/GE/es/faqs,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+API_BDNS,https://www.infosubvenciones.es/bdnstrans/A03/es/doc,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+EXENCIONES,https://www.hacienda.gob.es/es-ES/CDI/Paginas/InformacionPresupuestaria/InformacionBeneficiosFiscales/Presupuestosdebeneficiosfiscales.aspx,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+CONGRESO,https://www.congreso.es/es/opendata/votaciones,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador

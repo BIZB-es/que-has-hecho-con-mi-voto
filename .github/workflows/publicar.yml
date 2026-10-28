@@ -1,0 +1,56 @@
+name: Publicar Qué has hecho con mi voto
+
+# En esta candidata solo se publica mediante acción manual expresamente autorizada.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Obtener repositorio
+        uses: actions/checkout@v4
+      - name: Verificar portal y datos
+        run: |
+          python scripts/verificar_publicacion_v100.py
+          python scripts/verificar_importacion_v06.py
+          python tests/test_expedientes_v082.py
+          node --check assets/core.js
+          node --check assets/bootstrap.js
+          node --check assets/app.js
+          node --check assets/portal.js
+          node --check assets/indicadores_espana_v1.js
+      - name: Crear paquete público sin material de desarrollo
+        run: |
+          mkdir -p _site
+          rsync -a ./ _site/ \
+            --exclude='.git/' \
+            --exclude='.github/' \
+            --exclude='_site/' \
+            --exclude='scripts/' \
+            --exclude='tests/' \
+            --exclude='/preview_*.png' \
+            --exclude='/README.md' \
+            --exclude='/INFORME_*.md' \
+            --exclude='datos/fuentes_sesiones_XV.zip'
+      - name: Preparar GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Empaquetar sitio estático
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publicar sitio
+        id: deployment
+        uses: actions/deploy-pages@v4

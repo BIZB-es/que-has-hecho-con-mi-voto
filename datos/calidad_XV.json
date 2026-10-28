@@ -1,0 +1,76 @@
+{
+  "version": "0.8",
+  "fecha_revision": "2026-10-26",
+  "legislatura": "XV",
+  "fuentes": {
+    "votaciones": {
+      "nombre": "congreso-abierto-votaciones(1).csv",
+      "sha256": "77d2f7d2bc931dcf6daf989a3d5f56426a1e1d5fe33aef33023be1455f63e432"
+    },
+    "grupos": {
+      "nombre": "congreso-abierto-votos-grupo.csv",
+      "sha256": "c3c71398fa28e25f8bc0775726e5dc99caf0dbdfd60bcdba6882389810222be7"
+    },
+    "nominales": {
+      "nombre": "congreso-abierto-votos.csv",
+      "sha256": "53fa455fa45ac9632efcacd64a5b673dfe29323b426059ad1b7922958f3450cf"
+    }
+  },
+  "recuentos_csv": {
+    "votaciones": 2175,
+    "filas_grupo": 19561,
+    "filas_nominales": 726564,
+    "identificadores_individuales_distintos": 350,
+    "sesiones_con_voto": 144
+  },
+  "calidad": {
+    "filas_que_cuadran_grupos": 2173,
+    "votaciones_con_nominal_exacto": 95,
+    "votaciones_con_nominal_incompleto": 2078,
+    "votaciones_sin_nominal": 2,
+    "votaciones_con_recuento_contradictorio": 0,
+    "votaciones_sin_grupos": 2,
+    "discrepancias_por_sentido": {
+      "si": 15264,
+      "no": 15491,
+      "abstencion": 2841,
+      "no_vota": 1058
+    },
+    "por_anio": {
+      "2023": {
+        "incompleto": 32
+      },
+      "2024": {
+        "incompleto": 862
+      },
+      "2025": {
+        "incompleto": 740,
+        "sin_nominal": 1
+      },
+      "2026": {
+        "sin_nominal": 1,
+        "coincide": 95,
+        "incompleto": 444
+      }
+    }
+  },
+  "anomalias": {
+    "identificadores_descriptivos_proveedor": [
+      "pl-ley-vivienda-sumar-2026",
+      "pnl-especulacion-2026",
+      "pl-okupacion-pp-2026",
+      "rdl-8-2026",
+      "pl-suelo-vivienda-pp-2026",
+      "pl-pisos-turisticos-2025",
+      "pl-alquiler-temporada-2024-12"
+    ],
+    "diferencias_totales_grupo": []
+  },
+  "notas": [
+    "Los recuentos nominales proceden exclusivamente de las filas de los CSV; no se reconstruye ningun voto.",
+    "La discrepancia entre nominal y agregado no significa que un diputado cambiase el sentido del voto.",
+    "El grupo de la tabla nominal puede ser retrospectivo y no se usa para calcular los totales por grupo.",
+    "Las dos votaciones por llamamiento de 02/10/2026 se incorporan como registros documentales separados; no figuran en estos CSV.",
+    "Los totales de la votacion y los agregados por grupo son internamente coherentes; no sustituyen cotejo de cada JSON oficial."
+  ]
+}
