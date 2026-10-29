@@ -6,7 +6,7 @@
 
 El portal tiene tres entradas principales:
 
-1. **`index.html` · España en datos.** Nueve bloques de indicadores para economía, ingresos, desempleo, pobreza, vivienda, empresas, poder adquisitivo y ayudas públicas. Ocho contienen series históricas; el bloque de subvenciones y beneficios fiscales enlaza las fuentes oficiales pero no inventa una agregación. La pobreza monetaria extrema está señalada como pendiente de definición y serie validada. Los gráficos muestran período, unidad, metodología, fuente y posibilidad de ver tablas/descargar CSV en modo avanzado.
+1. **`index.html` · España en datos.** Diez bloques de indicadores para economía, ingresos, desempleo, pobreza, desigualdad de renta (índice de Gini), vivienda, empresas, poder adquisitivo y ayudas públicas. Nueve contienen series históricas; el bloque de subvenciones y beneficios fiscales enlaza las fuentes oficiales pero no inventa una agregación. La pobreza monetaria extrema está señalada como pendiente de definición y serie validada. Los gráficos muestran período, unidad, metodología, fuente y posibilidad de ver tablas/descargar CSV en modo avanzado.
 2. **`congreso.html` · Qué han votado.** Conserva el observatorio de la XV Legislatura: 2.177 votaciones, 2.206 relaciones votación-expediente, censo de 412 personas, argumentos piloto, calidad nominal y seguimiento piloto de la Ley de Vivienda. **Los resultados y votos nominales tienen las limitaciones explicadas en `calidad.html`.** La pertenencia temporal completa a partidos aún no está resuelta.
 3. **`proyecto.html` · Conoce el proyecto.** Guía de uso para personas no expertas, cómo se obtienen y revisan los datos, estado de cada área, limitaciones, fuentes, actualizaciones y correcciones.
 
@@ -27,7 +27,7 @@ node --check assets/portal.js
 node --check assets/indicadores_espana_v1.js
 ```
 
-Se han probado en navegador aislado la portada, los 9 bloques y 8 gráficos, los filtros por temas, la búsqueda, el modo avanzado, las tablas y el diseño móvil/escritorio. **Esto no acredita aún accesibilidad WCAG completa ni una prueba de producción del portal parlamentario.**
+La validación inicial en navegador aislado cubrió los nueve bloques y ocho gráficos originales, los filtros por temas, la búsqueda, el modo avanzado, las tablas y el diseño móvil/escritorio. El panel actual incluye diez bloques y nueve gráficos; el nuevo indicador de Gini incorpora la serie anual INE 2008–2025 (años de encuesta, renta del año anterior), sin alquiler imputado. **Esto no acredita aún accesibilidad WCAG completa ni una prueba de producción del portal parlamentario.**
 
 ## Metodología y trazabilidad
 

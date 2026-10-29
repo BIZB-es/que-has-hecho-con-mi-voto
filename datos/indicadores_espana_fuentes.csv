@@ -20,3 +20,6 @@ BDNS,https://www.pap.hacienda.gob.es/bdnstrans/GE/es/faqs,2026-10-29,Fuente prim
 API_BDNS,https://www.infosubvenciones.es/bdnstrans/A03/es/doc,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
 EXENCIONES,https://www.hacienda.gob.es/es-ES/CDI/Paginas/InformacionPresupuestaria/InformacionBeneficiosFiscales/Presupuestosdebeneficiosfiscales.aspx,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
 CONGRESO,https://www.congreso.es/es/opendata/votaciones,2026-10-29,Fuente primaria / información pública; ver notas dentro de cada indicador
+GINI,https://www.ine.es/jaxiT3/Tabla.htm?t=59970,2026-10-29,"INE / ECV; Gini nacional sin alquiler imputado; años de encuesta, renta del año anterior"
+GINI_CSV,https://www.ine.es/jaxiT3/files/t/csv_bdsc/59970.csv,2026-10-29,"INE / ECV; Gini nacional sin alquiler imputado; años de encuesta, renta del año anterior"
+ECV_METODO,https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608&menu=faq,2026-10-29,"INE / ECV; Gini nacional sin alquiler imputado; años de encuesta, renta del año anterior"
