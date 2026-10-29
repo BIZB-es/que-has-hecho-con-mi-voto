@@ -1,6 +1,6 @@
-# Qué has hecho con mi voto · Candidata de lanzamiento 1.00
+# Qué has hecho con mi voto · Versión pública 1.00
 
-**Estado: NO PUBLICADO.** Fecha de revisión: 29 de octubre de 2026. Esta versión es candidata, no una web 1.00 puesta a disposición del público.
+**Estado: PUBLICADO en GitHub Pages.** Fecha de lanzamiento: 29 de octubre de 2026. Sitio público: https://bizb-es.github.io/que-has-hecho-con-mi-voto/. El proyecto continúa en desarrollo y conserva limitaciones de cobertura documentadas.
 
 ## Qué incluye
 
@@ -41,12 +41,8 @@ Los datos de empleo y pobreza provienen de operaciones diferentes, y las fechas 
 
 ## Publicación y responsabilidades
 
-La carpeta `.github/workflows/publicar.yml` contiene una configuración para GitHub Pages. **No se ha publicado en Internet.** Antes de autorizar el despliegue 1.00 deben realizarse:
+La carpeta `.github/workflows/publicar.yml` contiene el flujo de despliegue manual de GitHub Pages. La publicación inicial de la versión 1.00 se completó correctamente el 29 de octubre de 2026. El flujo ejecuta controles de integridad antes de desplegar. El sitio puede utilizarse sin dominio propio. El paquete desplegado excluye los archivos de desarrollo y el material documental pesado.
 
-1. Designación de titular del sitio y correo público de consultas/rectificaciones.
-2. Página legal y tratamiento de datos adecuados al titular y al uso real de cookies, analítica o formularios.
-3. Revisión editorial final de fuentes y rótulos (en especial categorías pendientes).
-4. Pruebas reales de accesibilidad, teclado, rendimiento, enlaces externos y dispositivos.
-5. Autorización expresa de publicar y configuración del repositorio/dominio.
+**Titular:** Trust Society BISB, S.L. (BIZB) · **Contacto público:** qhhcmv@bizb.es. Las páginas `aviso-legal.html`, `privacidad.html` y `rectificaciones.html` explican la titularidad, el tratamiento de datos y el canal de correcciones.
 
-Para publicar en GitHub Pages: crear repositorio, subir los archivos de esta carpeta conservando directorios, revisar la pestaña Actions, activar Settings → Pages → GitHub Actions, y ejecutar el flujo con autorización. El flujo está configurado para verificar primero la integridad. Puede usarse sin dominio propio. No es necesario publicar los archivos de sesiones originales en el sitio público; la configuración de despliegue excluye archivos de desarrollo y material documental pesado.
+**Tareas abiertas tras la primera publicación:** auditoría completa de accesibilidad, navegación con teclado y rendimiento; revisión editorial continua de fuentes y rótulos; ampliación y cotejo de partidos históricos y registros nominales. Se mantiene visible la cobertura parcial de indicadores y análisis.

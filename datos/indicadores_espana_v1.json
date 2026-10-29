@@ -1,7 +1,7 @@
 {
-  "version": "1.0-rc1",
+  "version": "1.00",
   "retrieved": "2026-10-29",
-  "publication": "No publicado",
+  "publication": "Publicado el 29 de octubre de 2026",
   "coverage": "Primer panel estadístico con fuentes verificadas y desglose explícito de limitaciones.",
   "sources": {
     "PIB": "https://ine.es/consul/serie.do?d=true&s=CNE16232",

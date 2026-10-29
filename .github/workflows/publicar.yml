@@ -1,6 +1,6 @@
 name: Publicar Qué has hecho con mi voto
 
-# En esta candidata solo se publica mediante acción manual expresamente autorizada.
+# La versión 1.00 se publica y actualiza mediante una acción manual autorizada.
 on:
   workflow_dispatch:
 

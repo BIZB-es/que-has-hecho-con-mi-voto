@@ -41,9 +41,10 @@
   "expedientes_con_cotejo_html": 2134,
   "relaciones_votacion_expediente": 2206,
   "auditoria_expedientes": "datos/auditoria_expedientes_v082.json",
-  "portal_version": "1.00-rc2",
-  "portal_publicado": false,
+  "portal_version": "1.00",
+  "portal_publicado": true,
   "responsable_editorial": "Trust Society BISB, S.L. (BIZB)",
   "contacto_publico": "qhhcmv@bizb.es",
-  "avisos_legales_incorporados": true
+  "avisos_legales_incorporados": true,
+  "url_publica": "https://bizb-es.github.io/que-has-hecho-con-mi-voto/"
 }

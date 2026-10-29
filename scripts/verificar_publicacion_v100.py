@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Controles reproducibles de coherencia para la candidata publica 1.00.
+"""Controles reproducibles de coherencia para la version publica 1.00.
 
 No certifica la validez externa de cada estadistica ni reemplaza la revision editorial.
 """
@@ -28,7 +28,7 @@ class Links(HTMLParser):
 
 
 metrics=get('datos/indicadores_espana_v1.json')
-assert metrics['publication']=='No publicado'
+assert metrics['publication']=='Publicado el 29 de octubre de 2026'
 assert len(metrics['metrics'])==9
 assert sum(bool(m['variants']) for m in metrics['metrics'])==8
 assert len({m['id'] for m in metrics['metrics']})==9
@@ -73,4 +73,4 @@ assert not broken,broken
 assert 'assets/precarga_XV.js' not in (ROOT/'index.html').read_text(encoding='utf-8')
 assert 'assets/precarga_XV.js' in (ROOT/'congreso.html').read_text(encoding='utf-8')
 assert 'proyecto.html' in (ROOT/'index.html').read_text(encoding='utf-8')
-print(f'OK v1.00 RC: {len(metrics["metrics"])} bloques (8 con serie), {vote_count} votaciones, {len(rows)} relaciones de expediente y {len(all_html)} paginas HTML; enlaces locales integros.')
+print(f'OK v1.00: {len(metrics["metrics"])} bloques (8 con serie), {vote_count} votaciones, {len(rows)} relaciones de expediente y {len(all_html)} paginas HTML; enlaces locales integros.')
