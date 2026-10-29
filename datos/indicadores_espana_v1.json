@@ -24,7 +24,10 @@
     "BDNS": "https://www.pap.hacienda.gob.es/bdnstrans/GE/es/faqs",
     "API_BDNS": "https://www.infosubvenciones.es/bdnstrans/A03/es/doc",
     "EXENCIONES": "https://www.hacienda.gob.es/es-ES/CDI/Paginas/InformacionPresupuestaria/InformacionBeneficiosFiscales/Presupuestosdebeneficiosfiscales.aspx",
-    "CONGRESO": "https://www.congreso.es/es/opendata/votaciones"
+    "CONGRESO": "https://www.congreso.es/es/opendata/votaciones",
+    "GINI": "https://www.ine.es/jaxiT3/Tabla.htm?t=59970",
+    "GINI_CSV": "https://www.ine.es/jaxiT3/files/t/csv_bdsc/59970.csv",
+    "ECV_METODO": "https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176807&idp=1254735976608&menu=faq"
   },
   "metrics": [
     {
@@ -416,6 +419,82 @@
             "POBLACION"
           ],
           "note": "CÁLCULO ORIENTATIVO: tasa ECV × población del mismo año. No es un recuento poblacional oficial."
+        }
+      ]
+    },
+    {
+      "id": "desigualdad",
+      "group": "bienestar",
+      "icon": "≋",
+      "title": "Desigualdad de renta",
+      "short": "¿Cómo se reparte la renta entre la población?",
+      "leading": "30,8",
+      "leadSub": "Índice de Gini · ECV 2025 · ingresos de 2024",
+      "status": "serie verificada",
+      "default": "gini",
+      "variants": [
+        {
+          "id": "gini",
+          "name": "Índice de Gini",
+          "unit": "índice · escala de 0 a 100",
+          "labels": [
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025"
+          ],
+          "lines": [
+            {
+              "name": "Gini · España",
+              "values": [
+                32.4,
+                32.9,
+                33.5,
+                34.0,
+                34.2,
+                33.7,
+                34.7,
+                34.6,
+                34.5,
+                34.1,
+                33.2,
+                33.0,
+                32.1,
+                33.0,
+                32.0,
+                31.5,
+                31.2,
+                30.8
+              ]
+            }
+          ],
+          "sourceKeys": [
+            "GINI",
+            "GINI_CSV",
+            "ECV_METODO"
+          ],
+          "note": "Fuente: INE, Encuesta de Condiciones de Vida, tabla 59970. Total nacional, ambos sexos y todas las edades; Gini sin alquiler imputado. Los años del gráfico son los de la encuesta: la renta corresponde al año anterior (ECV 2025: ingresos de 2024). Serie de ingresos Base 2013; no es un índice con base 100. El eje vertical se ajusta al intervalo observado.",
+          "sourceSelection": {
+            "table": "59970",
+            "sex": "Ambos sexos",
+            "age": "Total",
+            "indicator": "Gini",
+            "retrieved": "2026-10-29"
+          }
         }
       ]
     },

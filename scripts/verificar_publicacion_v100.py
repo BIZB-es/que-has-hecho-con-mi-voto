@@ -29,9 +29,9 @@ class Links(HTMLParser):
 
 metrics=get('datos/indicadores_espana_v1.json')
 assert metrics['publication']=='Publicado el 29 de octubre de 2026'
-assert len(metrics['metrics'])==9
-assert sum(bool(m['variants']) for m in metrics['metrics'])==8
-assert len({m['id'] for m in metrics['metrics']})==9
+assert len(metrics['metrics'])==10
+assert sum(bool(m['variants']) for m in metrics['metrics'])==9
+assert len({m['id'] for m in metrics['metrics']})==10
 for m in metrics['metrics']:
     for k in m.get('sourceKeys',[]): assert k in metrics['sources']
     for v in m['variants']:
@@ -73,4 +73,4 @@ assert not broken,broken
 assert 'assets/precarga_XV.js' not in (ROOT/'index.html').read_text(encoding='utf-8')
 assert 'assets/precarga_XV.js' in (ROOT/'congreso.html').read_text(encoding='utf-8')
 assert 'proyecto.html' in (ROOT/'index.html').read_text(encoding='utf-8')
-print(f'OK v1.00: {len(metrics["metrics"])} bloques (8 con serie), {vote_count} votaciones, {len(rows)} relaciones de expediente y {len(all_html)} paginas HTML; enlaces locales integros.')
+print(f'OK v1.00: {len(metrics["metrics"])} bloques (9 con serie), {vote_count} votaciones, {len(rows)} relaciones de expediente y {len(all_html)} paginas HTML; enlaces locales integros.')
